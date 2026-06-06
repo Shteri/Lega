@@ -1,4 +1,4 @@
-# RegWatch / Lega
+# Legata / Lega
 
 Regulatory intelligence platform covering AI, Fintech, Crypto, Platforms, Privacy, Cybersecurity, and Gambling across EU, US, UK, and Isle of Man.
 

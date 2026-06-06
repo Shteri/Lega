@@ -1,12 +1,19 @@
 {
   "name": "lega",
   "version": "0.1.0",
-  "description": "RegWatch — Regulatory Intelligence Platform",
+  "description": "RegWatch \u2014 Regulatory Intelligence Platform",
   "private": true,
   "scripts": {
     "build": "npx @11ty/eleventy",
     "dev": "npx @11ty/eleventy --serve --watch",
-    "clean": "rm -rf _site"
+    "clean": "rm -rf _site",
+    "research": "node workers/run-research.mjs",
+    "wire": "node workers/run-wire.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "dotenv": "^16.4.0",
+    "rss-parser": "^3.13.0"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0"
