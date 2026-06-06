@@ -1,0 +1,523 @@
+[
+  {
+    "id": "fca-news",
+    "name": "FCA", "full_name": "Financial Conduct Authority — News & Press Releases",
+    "jurisdiction": "UK", "sectors": ["FT","CR","AI","CY"],
+    "strategy": "ai-scrape", "page_url": "https://www.fca.org.uk/news/press-releases",
+    "priority": "high", "poll_interval_hours": 1
+  },
+  {
+    "id": "fca-final-notices",
+    "name": "FCA", "full_name": "Financial Conduct Authority — Final Notices (Enforcement)",
+    "jurisdiction": "UK", "sectors": ["FT","CR"],
+    "strategy": "ai-scrape", "page_url": "https://www.fca.org.uk/news/final-notices",
+    "priority": "high", "poll_interval_hours": 1
+  },
+  {
+    "id": "fca-publications",
+    "name": "FCA", "full_name": "Financial Conduct Authority — Consultation Papers & Policy Statements",
+    "jurisdiction": "UK", "sectors": ["FT","CR","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.fca.org.uk/publications",
+    "priority": "high", "poll_interval_hours": 4
+  },
+  {
+    "id": "fca-speeches",
+    "name": "FCA", "full_name": "Financial Conduct Authority — Speeches",
+    "jurisdiction": "UK", "sectors": ["FT","CR","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.fca.org.uk/news/speeches",
+    "priority": "medium", "poll_interval_hours": 8
+  },
+  {
+    "id": "ico-news",
+    "name": "ICO", "full_name": "Information Commissioner's Office — News",
+    "jurisdiction": "UK", "sectors": ["PV","AI","PL"],
+    "strategy": "ai-scrape", "page_url": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/",
+    "priority": "high", "poll_interval_hours": 2
+  },
+  {
+    "id": "ico-enforcement",
+    "name": "ICO", "full_name": "Information Commissioner's Office — Enforcement",
+    "jurisdiction": "UK", "sectors": ["PV","AI"],
+    "strategy": "ai-scrape", "page_url": "https://ico.org.uk/action-weve-taken/enforcement/",
+    "priority": "high", "poll_interval_hours": 2
+  },
+  {
+    "id": "ico-guidance",
+    "name": "ICO", "full_name": "Information Commissioner's Office — Guidance & Resources",
+    "jurisdiction": "UK", "sectors": ["PV","AI"],
+    "strategy": "ai-scrape", "page_url": "https://ico.org.uk/for-organisations/guidance-and-advice/",
+    "priority": "medium", "poll_interval_hours": 8
+  },
+  {
+    "id": "ofcom-news",
+    "name": "Ofcom", "full_name": "Ofcom — News & Press Releases",
+    "jurisdiction": "UK", "sectors": ["PL","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.ofcom.org.uk/about-ofcom/latest/media/media-releases",
+    "priority": "high", "poll_interval_hours": 2
+  },
+  {
+    "id": "ofcom-enforcement",
+    "name": "Ofcom", "full_name": "Ofcom — Enforcement (Online Safety)",
+    "jurisdiction": "UK", "sectors": ["PL"],
+    "strategy": "ai-scrape", "page_url": "https://www.ofcom.org.uk/online-safety/information-for-industry/enforcement",
+    "priority": "high", "poll_interval_hours": 2
+  },
+  {
+    "id": "ofcom-consultations",
+    "name": "Ofcom", "full_name": "Ofcom — Consultations",
+    "jurisdiction": "UK", "sectors": ["PL","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.ofcom.org.uk/consultations-and-statements",
+    "priority": "medium", "poll_interval_hours": 8
+  },
+  {
+    "id": "cma",
+    "name": "CMA", "full_name": "Competition and Markets Authority",
+    "jurisdiction": "UK", "sectors": ["PL","AI"],
+    "strategy": "gov-uk-atom",
+    "feed_url": "https://www.gov.uk/government/organisations/competition-and-markets-authority.atom",
+    "priority": "high", "poll_interval_hours": 2
+  },
+  {
+    "id": "ncsc-news",
+    "name": "NCSC", "full_name": "National Cyber Security Centre — News",
+    "jurisdiction": "UK", "sectors": ["CY","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.ncsc.gov.uk/news",
+    "priority": "high", "poll_interval_hours": 1
+  },
+  {
+    "id": "ncsc-guidance",
+    "name": "NCSC", "full_name": "National Cyber Security Centre — Guidance",
+    "jurisdiction": "UK", "sectors": ["CY","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.ncsc.gov.uk/guidance",
+    "priority": "medium", "poll_interval_hours": 8
+  },
+  {
+    "id": "pra",
+    "name": "PRA", "full_name": "Prudential Regulation Authority — Publications",
+    "jurisdiction": "UK", "sectors": ["FT","CY"],
+    "strategy": "ai-scrape", "page_url": "https://www.bankofengland.co.uk/news/news",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "pra-supervisory",
+    "name": "PRA", "full_name": "Prudential Regulation Authority — Supervisory Statements",
+    "jurisdiction": "UK", "sectors": ["FT","CY"],
+    "strategy": "ai-scrape", "page_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/supervisory-statements",
+    "priority": "medium", "poll_interval_hours": 8
+  },
+  {
+    "id": "psr",
+    "name": "PSR", "full_name": "Payment Systems Regulator — Publications",
+    "jurisdiction": "UK", "sectors": ["FT"],
+    "strategy": "ai-scrape", "page_url": "https://www.psr.org.uk/publications/",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "ukgc-news",
+    "name": "UKGC", "full_name": "UK Gambling Commission — News",
+    "jurisdiction": "UK", "sectors": ["GG"],
+    "strategy": "ai-scrape", "page_url": "https://www.gamblingcommission.gov.uk/news-action-and-statistics/news",
+    "priority": "high", "poll_interval_hours": 4
+  },
+  {
+    "id": "ukgc-enforcement",
+    "name": "UKGC", "full_name": "UK Gambling Commission — Enforcement",
+    "jurisdiction": "UK", "sectors": ["GG"],
+    "strategy": "ai-scrape", "page_url": "https://www.gamblingcommission.gov.uk/news-action-and-statistics/action-we-take/enforcement",
+    "priority": "high", "poll_interval_hours": 4
+  },
+  {
+    "id": "dsit",
+    "name": "DSIT", "full_name": "Department for Science, Innovation and Technology",
+    "jurisdiction": "UK", "sectors": ["AI","PV","PL"],
+    "strategy": "gov-uk-atom",
+    "feed_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology.atom",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "hmt",
+    "name": "HM Treasury", "full_name": "HM Treasury",
+    "jurisdiction": "UK", "sectors": ["FT","CR"],
+    "strategy": "gov-uk-atom",
+    "feed_url": "https://www.gov.uk/government/organisations/hm-treasury.atom",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "asa",
+    "name": "ASA", "full_name": "Advertising Standards Authority — News",
+    "jurisdiction": "UK", "sectors": ["PL"],
+    "strategy": "ai-scrape", "page_url": "https://www.asa.org.uk/news.html",
+    "priority": "low", "poll_interval_hours": 8
+  },
+  {
+    "id": "asa-rulings",
+    "name": "ASA", "full_name": "Advertising Standards Authority — Rulings (Crypto/Gambling)",
+    "jurisdiction": "UK", "sectors": ["PL","GG","CR"],
+    "strategy": "ai-scrape", "page_url": "https://www.asa.org.uk/rulings.html",
+    "priority": "low", "poll_interval_hours": 8
+  },
+  {
+    "id": "sec-press",
+    "name": "SEC", "full_name": "Securities and Exchange Commission — Press Releases",
+    "jurisdiction": "US", "sectors": ["FT","CR","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.sec.gov/news/pressreleases",
+    "priority": "high", "poll_interval_hours": 1
+  },
+  {
+    "id": "sec-enforcement",
+    "name": "SEC", "full_name": "Securities and Exchange Commission — Enforcement Actions",
+    "jurisdiction": "US", "sectors": ["FT","CR"],
+    "strategy": "ai-scrape", "page_url": "https://www.sec.gov/divisions/enforce/enforcements.shtml",
+    "priority": "high", "poll_interval_hours": 2
+  },
+  {
+    "id": "sec-rules",
+    "name": "SEC", "full_name": "Securities and Exchange Commission — Rulemaking",
+    "jurisdiction": "US", "sectors": ["FT","CR"],
+    "strategy": "ai-scrape", "page_url": "https://www.sec.gov/rules-regulations/rulemaking-activity",
+    "priority": "high", "poll_interval_hours": 4
+  },
+  {
+    "id": "sec-speeches",
+    "name": "SEC", "full_name": "Securities and Exchange Commission — Speeches",
+    "jurisdiction": "US", "sectors": ["FT","CR","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.sec.gov/news/speeches",
+    "priority": "medium", "poll_interval_hours": 8
+  },
+  {
+    "id": "cftc-press",
+    "name": "CFTC", "full_name": "Commodity Futures Trading Commission — Press Releases",
+    "jurisdiction": "US", "sectors": ["CR","FT"],
+    "strategy": "ai-scrape", "page_url": "https://www.cftc.gov/PressRoom/PressReleases",
+    "priority": "high", "poll_interval_hours": 2
+  },
+  {
+    "id": "cftc-enforcement",
+    "name": "CFTC", "full_name": "Commodity Futures Trading Commission — Enforcement Actions",
+    "jurisdiction": "US", "sectors": ["CR","FT"],
+    "strategy": "ai-scrape", "page_url": "https://www.cftc.gov/LawRegulation/LegalRepository/EnforcementActions/index.htm",
+    "priority": "high", "poll_interval_hours": 2
+  },
+  {
+    "id": "ftc-press",
+    "name": "FTC", "full_name": "Federal Trade Commission — Press Releases",
+    "jurisdiction": "US", "sectors": ["PL","PV","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.ftc.gov/news-events/news/press-releases",
+    "priority": "high", "poll_interval_hours": 2
+  },
+  {
+    "id": "ftc-enforcement",
+    "name": "FTC", "full_name": "Federal Trade Commission — Cases & Proceedings",
+    "jurisdiction": "US", "sectors": ["PL","PV","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.ftc.gov/legal-library/browse/cases-proceedings",
+    "priority": "high", "poll_interval_hours": 4
+  },
+  {
+    "id": "ftc-rules",
+    "name": "FTC", "full_name": "Federal Trade Commission — Rulemaking",
+    "jurisdiction": "US", "sectors": ["PL","PV","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.ftc.gov/legal-library/browse/rules",
+    "priority": "medium", "poll_interval_hours": 8
+  },
+  {
+    "id": "cisa-news",
+    "name": "CISA", "full_name": "Cybersecurity and Infrastructure Security Agency — News",
+    "jurisdiction": "US", "sectors": ["CY","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.cisa.gov/news-events/news",
+    "priority": "high", "poll_interval_hours": 1
+  },
+  {
+    "id": "cisa-alerts",
+    "name": "CISA", "full_name": "Cybersecurity and Infrastructure Security Agency — Advisories",
+    "jurisdiction": "US", "sectors": ["CY"],
+    "strategy": "ai-scrape", "page_url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
+    "priority": "high", "poll_interval_hours": 1
+  },
+  {
+    "id": "occ",
+    "name": "OCC", "full_name": "Office of the Comptroller of the Currency — News",
+    "jurisdiction": "US", "sectors": ["FT","CR"],
+    "strategy": "ai-scrape", "page_url": "https://www.occ.gov/news-issuances/news-releases/",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "occ-bulletins",
+    "name": "OCC", "full_name": "Office of the Comptroller of the Currency — Bulletins & Guidance",
+    "jurisdiction": "US", "sectors": ["FT","CR"],
+    "strategy": "ai-scrape", "page_url": "https://www.occ.gov/news-issuances/bulletins/",
+    "priority": "medium", "poll_interval_hours": 8
+  },
+  {
+    "id": "fincen",
+    "name": "FinCEN", "full_name": "Financial Crimes Enforcement Network — News",
+    "jurisdiction": "US", "sectors": ["FT","CR"],
+    "strategy": "ai-scrape", "page_url": "https://www.fincen.gov/news",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "ofac",
+    "name": "OFAC", "full_name": "Office of Foreign Assets Control — Recent Actions",
+    "jurisdiction": "US", "sectors": ["CR","FT"],
+    "strategy": "ai-scrape", "page_url": "https://ofac.treasury.gov/recent-actions",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "cfpb",
+    "name": "CFPB", "full_name": "Consumer Financial Protection Bureau — Newsroom",
+    "jurisdiction": "US", "sectors": ["FT"],
+    "strategy": "ai-scrape", "page_url": "https://www.consumerfinance.gov/about-us/newsroom/",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "cfpb-enforcement",
+    "name": "CFPB", "full_name": "Consumer Financial Protection Bureau — Enforcement Actions",
+    "jurisdiction": "US", "sectors": ["FT"],
+    "strategy": "ai-scrape", "page_url": "https://www.consumerfinance.gov/enforcement/actions/",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "frb-press",
+    "name": "FRB", "full_name": "Federal Reserve Board — Press Releases",
+    "jurisdiction": "US", "sectors": ["FT","CR","CY"],
+    "strategy": "ai-scrape", "page_url": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "frb-supervisory",
+    "name": "FRB", "full_name": "Federal Reserve Board — Supervision & Regulation Letters",
+    "jurisdiction": "US", "sectors": ["FT","CY"],
+    "strategy": "ai-scrape", "page_url": "https://www.federalreserve.gov/apps/foia/ViewLetters.aspx",
+    "priority": "medium", "poll_interval_hours": 8
+  },
+  {
+    "id": "fdic",
+    "name": "FDIC", "full_name": "Federal Deposit Insurance Corporation — Press Releases",
+    "jurisdiction": "US", "sectors": ["FT"],
+    "strategy": "ai-scrape", "page_url": "https://www.fdic.gov/news/press-releases/",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "ncua",
+    "name": "NCUA", "full_name": "National Credit Union Administration — Press Releases",
+    "jurisdiction": "US", "sectors": ["FT"],
+    "strategy": "ai-scrape", "page_url": "https://www.ncua.gov/newsroom/press-releases",
+    "priority": "low", "poll_interval_hours": 8
+  },
+  {
+    "id": "doj-antitrust",
+    "name": "DOJ", "full_name": "Department of Justice — Antitrust Division News",
+    "jurisdiction": "US", "sectors": ["PL","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.justice.gov/atr/news",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "fcc",
+    "name": "FCC", "full_name": "Federal Communications Commission — News",
+    "jurisdiction": "US", "sectors": ["PL"],
+    "strategy": "ai-scrape", "page_url": "https://www.fcc.gov/news-events/news",
+    "priority": "low", "poll_interval_hours": 8
+  },
+  {
+    "id": "congress",
+    "name": "Congress", "full_name": "US Congress — Bills (Tracked Committees)",
+    "jurisdiction": "US", "sectors": ["AI","FT","CR","PV","PL","GG","CY"],
+    "strategy": "api",
+    "api_url": "https://api.congress.gov/v3/bill",
+    "api_params": { "limit": 20, "sort": "updateDate+desc", "api_key": "CONGRESS_API_KEY" },
+    "priority": "high", "poll_interval_hours": 4,
+    "note": "Free API key required at api.congress.gov"
+  },
+  {
+    "id": "nist",
+    "name": "NIST", "full_name": "National Institute of Standards and Technology — News",
+    "jurisdiction": "US", "sectors": ["CY","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.nist.gov/news-events/news",
+    "priority": "medium", "poll_interval_hours": 8
+  },
+  {
+    "id": "ec-fisma",
+    "name": "EC", "full_name": "European Commission — DG FISMA (Financial Services)",
+    "jurisdiction": "EU", "sectors": ["FT","CR","AI"],
+    "strategy": "ai-scrape", "page_url": "https://finance.ec.europa.eu/news_en",
+    "priority": "high", "poll_interval_hours": 4
+  },
+  {
+    "id": "ec-connect",
+    "name": "EC", "full_name": "European Commission — DG CONNECT (Digital & AI)",
+    "jurisdiction": "EU", "sectors": ["AI","PL","PV"],
+    "strategy": "ai-scrape", "page_url": "https://digital-strategy.ec.europa.eu/en/news",
+    "priority": "high", "poll_interval_hours": 4
+  },
+  {
+    "id": "ec-comp",
+    "name": "EC", "full_name": "European Commission — DG COMP (Competition)",
+    "jurisdiction": "EU", "sectors": ["PL","AI"],
+    "strategy": "ai-scrape", "page_url": "https://ec.europa.eu/competition-policy/news_en",
+    "priority": "high", "poll_interval_hours": 4
+  },
+  {
+    "id": "ec-press",
+    "name": "EC", "full_name": "European Commission — Press Corner",
+    "jurisdiction": "EU", "sectors": ["AI","FT","CR","PL","PV","CY","GG"],
+    "strategy": "ai-scrape", "page_url": "https://ec.europa.eu/commission/presscorner/home/en",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "esma-news",
+    "name": "ESMA", "full_name": "European Securities and Markets Authority — News",
+    "jurisdiction": "EU", "sectors": ["FT","CR"],
+    "strategy": "ai-scrape", "page_url": "https://www.esma.europa.eu/press-news/esma-news",
+    "priority": "high", "poll_interval_hours": 2
+  },
+  {
+    "id": "esma-opinions",
+    "name": "ESMA", "full_name": "European Securities and Markets Authority — Opinions",
+    "jurisdiction": "EU", "sectors": ["FT","CR"],
+    "strategy": "ai-scrape", "page_url": "https://www.esma.europa.eu/publications-and-data/opinions",
+    "priority": "high", "poll_interval_hours": 8
+  },
+  {
+    "id": "esma-technical-standards",
+    "name": "ESMA", "full_name": "European Securities and Markets Authority — Technical Standards",
+    "jurisdiction": "EU", "sectors": ["FT","CR"],
+    "strategy": "ai-scrape", "page_url": "https://www.esma.europa.eu/publications-and-data/technical-standards",
+    "priority": "high", "poll_interval_hours": 8
+  },
+  {
+    "id": "eba-news",
+    "name": "EBA", "full_name": "European Banking Authority — News",
+    "jurisdiction": "EU", "sectors": ["FT","CR","CY"],
+    "strategy": "ai-scrape", "page_url": "https://www.eba.europa.eu/news-press/news",
+    "priority": "high", "poll_interval_hours": 2
+  },
+  {
+    "id": "eba-publications",
+    "name": "EBA", "full_name": "European Banking Authority — Publications",
+    "jurisdiction": "EU", "sectors": ["FT","CR","CY"],
+    "strategy": "ai-scrape", "page_url": "https://www.eba.europa.eu/publications-and-research",
+    "priority": "high", "poll_interval_hours": 8
+  },
+  {
+    "id": "eiopa",
+    "name": "EIOPA", "full_name": "European Insurance and Occupational Pensions Authority — News",
+    "jurisdiction": "EU", "sectors": ["FT","CY"],
+    "strategy": "ai-scrape", "page_url": "https://www.eiopa.europa.eu/news-and-activities/news_en",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "ecb-ssm",
+    "name": "ECB/SSM", "full_name": "ECB Banking Supervision — Press Releases",
+    "jurisdiction": "EU", "sectors": ["FT","CR"],
+    "strategy": "ai-scrape", "page_url": "https://www.bankingsupervision.europa.eu/press/pr/html/index.en.html",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "edpb-news",
+    "name": "EDPB", "full_name": "European Data Protection Board — News",
+    "jurisdiction": "EU", "sectors": ["PV","AI","PL"],
+    "strategy": "ai-scrape", "page_url": "https://www.edpb.europa.eu/news/news_en",
+    "priority": "high", "poll_interval_hours": 2
+  },
+  {
+    "id": "edpb-documents",
+    "name": "EDPB", "full_name": "European Data Protection Board — Documents (Guidelines, Opinions)",
+    "jurisdiction": "EU", "sectors": ["PV","AI","PL"],
+    "strategy": "ai-scrape", "page_url": "https://www.edpb.europa.eu/our-work-tools/our-documents_en",
+    "priority": "high", "poll_interval_hours": 8
+  },
+  {
+    "id": "enisa",
+    "name": "ENISA", "full_name": "EU Agency for Cybersecurity — News & Publications",
+    "jurisdiction": "EU", "sectors": ["CY","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.enisa.europa.eu/news",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "cysec",
+    "name": "CySEC", "full_name": "Cyprus Securities and Exchange Commission — News",
+    "jurisdiction": "EU", "sectors": ["CR","FT"],
+    "strategy": "ai-scrape", "page_url": "https://www.cysec.gov.cy/en-GB/news/",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "cnil-news",
+    "name": "CNIL", "full_name": "CNIL — News",
+    "jurisdiction": "EU", "sectors": ["PV","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.cnil.fr/en/news",
+    "priority": "high", "poll_interval_hours": 4
+  },
+  {
+    "id": "cnil-enforcement",
+    "name": "CNIL", "full_name": "CNIL — Enforcement (Délibérations / Sanctions)",
+    "jurisdiction": "EU", "sectors": ["PV"],
+    "strategy": "ai-scrape", "page_url": "https://www.cnil.fr/en/formal-notice-and-sanction",
+    "priority": "high", "poll_interval_hours": 4
+  },
+  {
+    "id": "bfdi",
+    "name": "BfDI", "full_name": "BfDI — Press Releases",
+    "jurisdiction": "EU", "sectors": ["PV","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.bfdi.bund.de/EN/Infothek/Pressemitteilungen/pressemitteilungen_node.html",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "ap-nl",
+    "name": "AP", "full_name": "Autoriteit Persoonsgegevens — News",
+    "jurisdiction": "EU", "sectors": ["PV"],
+    "strategy": "ai-scrape", "page_url": "https://www.autoriteitpersoonsgegevens.nl/en/current/news",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "garante",
+    "name": "Garante", "full_name": "Garante per la Protezione dei Dati Personali — News (EN)",
+    "jurisdiction": "EU", "sectors": ["PV","AI"],
+    "strategy": "ai-scrape", "page_url": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9999",
+    "priority": "medium", "poll_interval_hours": 4,
+    "note": "English coverage is partial — Italian page has full enforcement volume"
+  },
+  {
+    "id": "aepd",
+    "name": "AEPD", "full_name": "Agencia Española de Protección de Datos — News",
+    "jurisdiction": "EU", "sectors": ["PV"],
+    "strategy": "ai-scrape", "page_url": "https://www.aepd.es/en/press-and-communication/news",
+    "priority": "medium", "poll_interval_hours": 4
+  },
+  {
+    "id": "gsc",
+    "name": "GSC", "full_name": "Gambling Supervision Commission (Isle of Man)",
+    "jurisdiction": "IOM", "sectors": ["GG"],
+    "strategy": "ai-scrape", "page_url": "https://www.gov.im/categories/business-and-industries/gambling-and-e-gaming/",
+    "priority": "medium", "poll_interval_hours": 8
+  },
+  {
+    "id": "iomfsa",
+    "name": "IOMFSA", "full_name": "Isle of Man Financial Services Authority — News & Publications",
+    "jurisdiction": "IOM", "sectors": ["CR","FT"],
+    "strategy": "ai-scrape", "page_url": "https://www.iomfsa.im/news-and-publications/",
+    "priority": "medium", "poll_interval_hours": 8
+  },
+  {
+    "id": "esma-qa-mica",
+    "name": "ESMA", "full_name": "ESMA Q&A — MiCA (rolling update)",
+    "jurisdiction": "EU", "sectors": ["CR","FT"],
+    "strategy": "diff",
+    "doc_url": "https://www.esma.europa.eu/document/questions-and-answers-regulation-markets-crypto-assets-mica",
+    "priority": "high", "poll_interval_hours": 24
+  },
+  {
+    "id": "esma-qa-mifid",
+    "name": "ESMA", "full_name": "ESMA Q&A — MiFID II (rolling update)",
+    "jurisdiction": "EU", "sectors": ["FT"],
+    "strategy": "diff",
+    "doc_url": "https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mifid-ii",
+    "priority": "medium", "poll_interval_hours": 24
+  },
+  {
+    "id": "eba-qa",
+    "name": "EBA", "full_name": "EBA Q&A Tool (rolling update)",
+    "jurisdiction": "EU", "sectors": ["FT","CR"],
+    "strategy": "diff",
+    "doc_url": "https://www.eba.europa.eu/single-rule-book-qa",
+    "priority": "medium", "poll_interval_hours": 24
+  }
+]
