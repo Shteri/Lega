@@ -1,0 +1,28 @@
+---
+layout: base.njk
+title: Articles
+permalink: /articles/
+---
+
+<div class="page-header">
+  <h1>Articles</h1>
+</div>
+
+{% if collections.articles | length > 0 %}
+<div class="article-list">
+  {% for article in collections.articles %}
+  <a href="{{ article.url }}" class="article-card">
+    <div class="article-card-meta">
+      <span class="sector-tag">{{ article.data.sector }}</span>
+      <span class="type-tag">{{ article.data.content_type }}</span>
+      <span class="jurisdiction-tag">{{ article.data.jurisdiction }}</span>
+    </div>
+    <h2>{{ article.data.title }}</h2>
+    {% if article.data.regulator %}<span class="article-regulator">{{ article.data.regulator }}</span>{% endif %}
+    <span class="article-date">{{ article.data.event_date | dateformat }}</span>
+  </a>
+  {% endfor %}
+</div>
+{% else %}
+<p class="empty-state">No articles yet. The pipeline will populate this as agents ingest regulatory items.</p>
+{% endif %}

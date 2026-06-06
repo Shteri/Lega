@@ -1,0 +1,31 @@
+---
+layout: base.njk
+title: Live Wire
+permalink: /wire/
+---
+
+<div class="page-header">
+  <h1>Live Wire</h1>
+  <p>Trade press and regulator feed items, scored for relevance.</p>
+</div>
+
+{% if wire | length > 0 %}
+<div class="wire-list wire-list--full">
+  {% for item in wire %}
+  <div class="wire-item">
+    <span class="wire-source">{{ item.source }}</span>
+    <a href="{{ item.url }}" target="_blank" rel="noopener" class="wire-title">{{ item.title }}</a>
+    {% if item.sectors %}
+    <div class="wire-sectors">
+      {% for s in item.sectors %}
+      <span class="sector-tag">{{ s }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+    <span class="wire-date">{{ item.date | dateformat }}</span>
+  </div>
+  {% endfor %}
+</div>
+{% else %}
+<p class="empty-state">Wire feed not yet populated. Chief of Wire runs every 10 minutes once the pipeline is active.</p>
+{% endif %}

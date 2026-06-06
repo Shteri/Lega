@@ -1,0 +1,28 @@
+---
+layout: base.njk
+title: Deadlines
+permalink: /deadlines/
+---
+
+<div class="page-header">
+  <h1>Regulatory Deadlines</h1>
+  <p>Upcoming compliance deadlines extracted from tracked legislation and guidance.</p>
+</div>
+
+{% if deadlines | length > 0 %}
+<ul class="deadline-list deadline-list--full">
+  {% for d in deadlines %}
+  <li class="deadline-item">
+    <span class="deadline-date">{{ d.date | dateformat }}</span>
+    <div class="deadline-content">
+      <span class="deadline-label">{{ d.label }}</span>
+      <span class="deadline-law">{{ d.law }}</span>
+      {% if d.jurisdiction %}<span class="jurisdiction-tag">{{ d.jurisdiction }}</span>{% endif %}
+    </div>
+    {% if d.article_url %}<a href="{{ d.article_url }}" class="deadline-link">Article</a>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p class="empty-state">Deadline calendar will be populated by the Data chief as articles are published.</p>
+{% endif %}

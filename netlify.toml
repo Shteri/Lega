@@ -1,0 +1,27 @@
+[build]
+  command   = "npm run build"
+  publish   = "_site"
+  functions = "netlify/functions"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Redirect /articles/ to index when no slug given
+[[redirects]]
+  from   = "/articles"
+  to     = "/articles/"
+  status = 301
+
+# 404 fallback
+[[redirects]]
+  from   = "/*"
+  to     = "/404.html"
+  status = 404
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options            = "DENY"
+    X-Content-Type-Options     = "nosniff"
+    Referrer-Policy            = "strict-origin-when-cross-origin"
+    Permissions-Policy         = "camera=(), microphone=(), geolocation=()"

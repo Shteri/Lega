@@ -1,0 +1,36 @@
+---
+layout: base.njk
+---
+
+<article class="article">
+
+  <header class="article-header">
+    <div class="article-meta">
+      <span class="article-sector">{{ sector }}</span>
+      <span class="article-type">{{ content_type }}</span>
+      <span class="article-jurisdiction">{{ jurisdiction }}</span>
+    </div>
+    <h1 class="article-title">{{ title }}</h1>
+    <div class="article-dates">
+      {% if event_date %}<span>Event: {{ event_date | dateformat }}</span>{% endif %}
+      {% if pub_date %}<span>Published: {{ pub_date | dateformat }}</span>{% endif %}
+    </div>
+    {% if regulator %}<div class="article-regulator">{{ regulator }}</div>{% endif %}
+  </header>
+
+  <div class="article-body">
+    {{ content | safe }}
+  </div>
+
+  {% if primary_sources %}
+  <footer class="article-sources">
+    <h3>Primary Sources</h3>
+    <ul>
+      {% for source in primary_sources %}
+      <li><a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.label }}</a></li>
+      {% endfor %}
+    </ul>
+  </footer>
+  {% endif %}
+
+</article>

@@ -1,0 +1,32 @@
+---
+layout: base.njk
+title: Regulators
+permalink: /regulators/
+---
+
+<div class="page-header">
+  <h1>Regulators</h1>
+  <p>~50 regulatory bodies tracked across EU, US, UK, and Isle of Man.</p>
+</div>
+
+{% if regulators | length > 0 %}
+<div class="regulator-list">
+  {% for reg in regulators %}
+  <div class="regulator-card">
+    <div class="regulator-card-header">
+      <h2>{{ reg.short_name }}</h2>
+      <span class="jurisdiction-tag">{{ reg.jurisdiction }}</span>
+    </div>
+    <p class="regulator-full-name">{{ reg.full_name }}</p>
+    <div class="regulator-sectors">
+      {% for s in reg.sectors %}
+      <span class="sector-tag">{{ s }}</span>
+      {% endfor %}
+    </div>
+    {% if reg.article_count %}<span class="regulator-count">{{ reg.article_count }} articles</span>{% endif %}
+  </div>
+  {% endfor %}
+</div>
+{% else %}
+<p class="empty-state">Regulator hub will be populated by the Data chief after the first deploy.</p>
+{% endif %}

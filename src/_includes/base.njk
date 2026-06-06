@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ description if description else 'RegWatch — Regulatory intelligence across AI, Fintech, Crypto, Platforms, Privacy, Cybersecurity, and Gambling.' }}">
+  <title>{% if title %}{{ title }} | {% endif %}RegWatch</title>
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <a href="/" class="site-logo">RegWatch</a>
+    <nav class="site-nav">
+      <a href="/articles/">Articles</a>
+      <a href="/wire/">Wire</a>
+      <a href="/regulators/">Regulators</a>
+      <a href="/deadlines/">Deadlines</a>
+    </nav>
+  </header>
+
+  <main class="site-main">
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <p>RegWatch — Regulatory Intelligence</p>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Build output
+_site/
+
+# Environment
+.env
+.env.local
+
+# Pipeline — runtime working directory, never committed
+pipeline/
+
+# Infrastructure reports — runtime only
+data/infra/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Netlify CLI
+.netlify/
+
+# Editor
+.vscode/
+.idea/

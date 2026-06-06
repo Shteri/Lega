@@ -1,0 +1,99 @@
+---
+layout: base.njk
+title: Home
+---
+
+<section class="hero">
+  <h1>Regulatory intelligence.<br>All jurisdictions. All sectors.</h1>
+  <p>RegWatch tracks regulatory developments across AI, Fintech, Crypto, Platforms, Privacy, Cybersecurity, and Gambling — EU, US, UK, and Isle of Man.</p>
+</section>
+
+<section class="sectors">
+  <div class="sector-grid">
+    <a href="/articles/?sector=AI" class="sector-card">
+      <span class="sector-id">AI</span>
+      <span class="sector-name">Artificial Intelligence</span>
+    </a>
+    <a href="/articles/?sector=FT" class="sector-card">
+      <span class="sector-id">FT</span>
+      <span class="sector-name">Fintech &amp; Digital Finance</span>
+    </a>
+    <a href="/articles/?sector=CR" class="sector-card">
+      <span class="sector-id">CR</span>
+      <span class="sector-name">Crypto &amp; Digital Assets</span>
+    </a>
+    <a href="/articles/?sector=PL" class="sector-card">
+      <span class="sector-id">PL</span>
+      <span class="sector-name">Platforms &amp; Content Law</span>
+    </a>
+    <a href="/articles/?sector=PV" class="sector-card">
+      <span class="sector-id">PV</span>
+      <span class="sector-name">Privacy &amp; Data Protection</span>
+    </a>
+    <a href="/articles/?sector=GG" class="sector-card">
+      <span class="sector-id">GG</span>
+      <span class="sector-name">Gambling &amp; Gaming</span>
+    </a>
+    <a href="/articles/?sector=CY" class="sector-card">
+      <span class="sector-id">CY</span>
+      <span class="sector-name">Cybersecurity</span>
+    </a>
+  </div>
+</section>
+
+{% if wire | length > 0 %}
+<section class="wire-preview">
+  <div class="section-header">
+    <h2>Live Wire</h2>
+    <a href="/wire/" class="see-all">See all</a>
+  </div>
+  <div class="wire-list">
+    {% for item in wire | limit(5) %}
+    <div class="wire-item">
+      <span class="wire-source">{{ item.source }}</span>
+      <a href="{{ item.url }}" target="_blank" rel="noopener" class="wire-title">{{ item.title }}</a>
+      <span class="wire-date">{{ item.date | dateformat }}</span>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+{% if collections.articles | length > 0 %}
+<section class="latest-articles">
+  <div class="section-header">
+    <h2>Latest Articles</h2>
+    <a href="/articles/" class="see-all">See all</a>
+  </div>
+  <div class="article-list">
+    {% for article in collections.articles | limit(5) %}
+    <a href="{{ article.url }}" class="article-card">
+      <div class="article-card-meta">
+        <span class="sector-tag">{{ article.data.sector }}</span>
+        <span class="jurisdiction-tag">{{ article.data.jurisdiction }}</span>
+      </div>
+      <h3>{{ article.data.title }}</h3>
+      <span class="article-date">{{ article.data.event_date | dateformat }}</span>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+{% if deadlines | length > 0 %}
+<section class="upcoming-deadlines">
+  <div class="section-header">
+    <h2>Upcoming Deadlines</h2>
+    <a href="/deadlines/" class="see-all">See all</a>
+  </div>
+  <ul class="deadline-list">
+    {% for d in deadlines | limit(5) %}
+    <li class="deadline-item">
+      <span class="deadline-date">{{ d.date | dateformat }}</span>
+      <span class="deadline-label">{{ d.label }}</span>
+      <span class="deadline-law">{{ d.law }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
