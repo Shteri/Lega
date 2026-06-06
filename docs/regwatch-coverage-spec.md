@@ -388,25 +388,6 @@ Congressional and parliamentary committee outputs are high-signal but require ed
 
 ---
 
-### 4E. Isle of Man
-
----
-
-#### GSC (Gambling Supervision Commission)
-**Sectors:** GG
-**Content types:** LIC, GUID, RULE, ENF, PR, RPT
-**Notes:** IoM is a Tier 1 gambling jurisdiction — licensing and enforcement outputs are individually significant. Tynwald-approved subordinate legislation changes are tracked as RULE.
-**Key sources:** gov.im/categories/business-and-industries/gambling-and-e-gaming
-
----
-
-#### IOMFSA (Isle of Man Financial Services Authority)
-**Sectors:** CR, FT
-**Content types:** LIC, GUID, RULE, ENF, PR
-**Key sources:** iomfsa.im/publications
-
----
-
 ## 5. Regulator Count Summary
 
 | Jurisdiction | Bodies | Sectors |
@@ -415,8 +396,7 @@ Congressional and parliamentary committee outputs are high-signal but require ed
 | USA Federal (regulators + Congress) | 14 | All 7 |
 | USA States (legislation tracking) | ~15 priority + all 50 for enacted | PV, AI, GG, CR, FT |
 | UK | 9 | All 7 |
-| Isle of Man | 2 | GG, CR, FT |
-| **Total** | **~50 bodies** | **All 7 sectors** |
+| **Total** | **~48 bodies** | **All 7 sectors** |
 
 ---
 

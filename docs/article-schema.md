@@ -13,7 +13,7 @@ layout: article.njk
 sector: CR                    # AI | FT | CR | PL | PV | GG | CY
 content_type: SUPV            # LEG | BILL | RULE | RTS | QA | GUID | NOAC |
                               # SUPV | ENF | CONS | SPCH | PR | RPT | LIC | ALRT | HRNG
-jurisdiction: UK              # EU | US | UK | IOM | US-STATE
+jurisdiction: UK              # EU | US | UK | US-STATE | GLOBAL
 
 # Dates (ISO 8601)
 event_date: "2026-05-14"      # Date the regulatory event occurred
@@ -80,7 +80,6 @@ primary_sources:
 | EU | European Union |
 | US | United States (Federal) |
 | UK | United Kingdom |
-| IOM | Isle of Man |
 | US-STATE | United States (State level) |
 | GLOBAL | Multi-jurisdiction |
 

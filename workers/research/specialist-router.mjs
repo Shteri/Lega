@@ -37,7 +37,6 @@ const ROUTING_TABLE = [
 
   { sector: 'GG',  jurisdiction: 'US',  specialist: './specialists/researcher-us-gambling.mjs' },
   { sector: 'GG',  jurisdiction: 'UK',  specialist: './specialists/researcher-uk-gambling.mjs' },
-  { sector: 'GG',  jurisdiction: 'IOM', specialist: './specialists/researcher-uk-gambling.mjs' },
 ];
 
 /**

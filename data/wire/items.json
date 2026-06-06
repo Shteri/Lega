@@ -1,1 +1,1933 @@
-[]
+[
+  {
+    "id": "wire-2026-06-05-igaming-business-mga-urges-bookmakers-to-tighten-monitoring-ahead-o",
+    "title": "MGA urges bookmakers to tighten monitoring ahead of 2026 World Cup",
+    "url": "https://igamingbusiness.com/sports-betting/mga-urges-bookmakers-tighten-monitoring-ahead-2026-world-cup/",
+    "source": "iGaming Business",
+    "date": "2026-06-05",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "EU",
+      "GLOBAL"
+    ],
+    "regulators": [
+      "MGA"
+    ],
+    "score": 0.9,
+    "image_url": "https://igamingbusiness.com",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-06-05-igaming-business-the-vpn-dilemma-a-regulatory-loophole-or-gambling",
+    "title": "The VPN dilemma: A regulatory loophole or gambling’s red herring?",
+    "url": "https://igamingbusiness.com/legal-compliance/regulation/vpn-dilemma-gambling-loophole-red-herring/",
+    "source": "iGaming Business",
+    "date": "2026-06-05",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "UK"
+    ],
+    "regulators": [
+      "UKGC"
+    ],
+    "score": 0.8,
+    "image_url": "https://igamingbusiness.com/img-srv/nsBxjheBeRSusJTomrJO02i9F5B2b8b-d91zUWq5iz8/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/cachebuster:filesize-411250/bG9jYWw6Ly8vaWdhbWluZ2J1c2luZXNzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNi9wZXhlbHMtbmlrb2xldGEtc3R1ZGVuY292YS0yMTA3NDg3NDUtMTM4ODc3MTItc2NhbGVkLmpwZw.webp",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-06-05-igaming-business-uk-gambling-industry-generated-4-5-billion-in-ggy",
+    "title": "UK gambling industry generated £4.5 billion in GGY during Q4 2025, says Gambling Commission",
+    "url": "https://igamingbusiness.com/finance/uk-gambling-industry-generated-4-5bn-ggy-q4-2025-gambling-commission/",
+    "source": "iGaming Business",
+    "date": "2026-06-05",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "UK"
+    ],
+    "regulators": [
+      "UKGC"
+    ],
+    "score": 0.7,
+    "image_url": "https://igamingbusiness.com",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-06-05-gambling-insider-new-mexico-sues-kalshi-says-it-looks-and-quacks-li",
+    "title": "New Mexico Sues Kalshi, Says It ‘Looks and Quacks Like a Sportsbook’",
+    "url": "https://www.gamblinginsider.com/news/165413/new-mexico-sues-kalshi",
+    "source": "Gambling Insider",
+    "date": "2026-06-05",
+    "sectors": [
+      "GG",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US-STATE",
+      "US"
+    ],
+    "regulators": [
+      "DOJ"
+    ],
+    "score": 1,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:56:01.528Z"
+  },
+  {
+    "id": "wire-2026-06-05-gambling-insider-prediction-markets-responsible-gambling-micro-bett",
+    "title": "Prediction Markets, Responsible Gambling, Micro Betting Lead Gambling Bills That Mattered This Week",
+    "url": "https://www.gamblinginsider.com/news/165408/prediction-markets-responsible-gambling-micro-betting-bills-that-mattered",
+    "source": "Gambling Insider",
+    "date": "2026-06-05",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "US-STATE"
+    ],
+    "regulators": [],
+    "score": 1,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:56:01.528Z"
+  },
+  {
+    "id": "wire-2026-06-05-the-verge-congress-still-can-t-decide-what-to-do-about-warra",
+    "title": "Congress still can’t decide what to do about warrantless surveillance",
+    "url": "https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte",
+    "source": "The Verge",
+    "date": "2026-06-05",
+    "sectors": [
+      "PV",
+      "CY"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "Congress"
+    ],
+    "score": 0.8,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "fetched_at": "2026-06-06T13:55:58.603Z"
+  },
+  {
+    "id": "wire-2026-06-05-the-record-eu-unveils-tech-sovereignty-package-to-cut-relianc",
+    "title": "EU unveils tech sovereignty package to cut reliance on US, Chinese suppliers",
+    "url": "https://therecord.media/eu-unveils-tech-sovereignty-package-cut-reliance-us-china",
+    "source": "The Record",
+    "date": "2026-06-05",
+    "sectors": [
+      "AI",
+      "CY"
+    ],
+    "jurisdictions": [
+      "EU"
+    ],
+    "regulators": [
+      "EC"
+    ],
+    "score": 0.8,
+    "image_url": "http://cms.therecord.media/uploads/EU_flags_bc90bb31b4.jpg",
+    "fetched_at": "2026-06-06T13:55:54.966Z"
+  },
+  {
+    "id": "wire-2026-06-05-risky-business-risky-bulletin-the-eu-debuts-digital-sovereignty-p",
+    "title": "Risky Bulletin: The EU debuts digital sovereignty plan",
+    "url": "https://risky.biz/risky-bulletin-the-eu-debuts-digital-sovereignty-plan/",
+    "source": "Risky Business",
+    "date": "2026-06-05",
+    "sectors": [
+      "CY",
+      "AI"
+    ],
+    "jurisdictions": [
+      "EU"
+    ],
+    "regulators": [
+      "EC"
+    ],
+    "score": 0.7,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:53.880Z"
+  },
+  {
+    "id": "wire-2026-06-05-bleepingcomputer-cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to",
+    "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
+    "source": "BleepingComputer",
+    "date": "2026-06-05",
+    "sectors": [
+      "CY"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "CISA"
+    ],
+    "score": 0.8,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:52.025Z"
+  },
+  {
+    "id": "wire-2026-06-05-bleepingcomputer-over-900-us-gas-station-tank-gauge-systems-exposed",
+    "title": "Over 900 US gas station tank gauge systems exposed to attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
+    "source": "BleepingComputer",
+    "date": "2026-06-05",
+    "sectors": [
+      "CY"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:52.025Z"
+  },
+  {
+    "id": "wire-2026-06-05-dark-reading-trump-ai-order-seeks-voluntary-frontier-model-test",
+    "title": "Trump AI Order Seeks Voluntary Frontier Model Testing",
+    "url": "https://www.darkreading.com/cybersecurity-operations/trump-ai-order-seeks-voluntary-frontier-model-testing",
+    "source": "Dark Reading",
+    "date": "2026-06-05",
+    "sectors": [
+      "AI",
+      "CY"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.9,
+    "image_url": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt35b8e66ce856430b/6a21d4c69f92ca3dfa08c2dd/RMTrump_Signs_Executive_Order-Kevin_Dietsch-getty-2279671771.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "fetched_at": "2026-06-06T13:55:51.441Z"
+  },
+  {
+    "id": "wire-2026-06-05-mit-technology-review-the-meta-hack-shows-there-s-more-to-ai-security-th",
+    "title": "The Meta hack shows there’s more to AI security than Mythos",
+    "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "source": "MIT Technology Review",
+    "date": "2026-06-05",
+    "sectors": [
+      "AI",
+      "CY"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.6,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:47.288Z"
+  },
+  {
+    "id": "wire-2026-06-05-american-banker-when-sports-gambling-gets-legalized-delinquency-ra",
+    "title": "When sports gambling gets legalized, delinquency rates rise",
+    "url": "https://www.americanbanker.com/news/when-sports-gambling-gets-legalized-delinquency-rates-rise",
+    "source": "American Banker",
+    "date": "2026-06-05",
+    "sectors": [
+      "GG",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.6,
+    "image_url": "https://arizent.brightspotcdn.com/dims4/default/85504c3/2147483647/strip/true/crop/1099x618+0+0/resize/1099x618!/format/jpg/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fc8%2Fe7%2F9f47d09847a79da5520caddbae31%2Fgambling-and-delinquencies-16x9.png",
+    "fetched_at": "2026-06-06T13:55:43.201Z"
+  },
+  {
+    "id": "wire-2026-06-05-american-banker-tennessee-remittance-tax-adds-to-trump-s-immigrati",
+    "title": "Tennessee remittance tax adds to Trump's immigration crackdown",
+    "url": "https://www.americanbanker.com/payments/news/tennessee-remittance-tax-adds-to-trump-immigration-crackdown",
+    "source": "American Banker",
+    "date": "2026-06-05",
+    "sectors": [
+      "FT"
+    ],
+    "jurisdictions": [
+      "US-STATE"
+    ],
+    "regulators": [],
+    "score": 0.8,
+    "image_url": "https://arizent.brightspotcdn.com/dims4/default/9a12ad9/2147483647/strip/true/crop/4000x2666+0+0/resize/1013x675!/format/jpg/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F18%2Fb0%2Fa373ee69414db2c10849bd8bef95%2F456845241.jpg",
+    "fetched_at": "2026-06-06T13:55:43.201Z"
+  },
+  {
+    "id": "wire-2026-06-05-american-banker-former-ubs-fund-sues-law-firm-pillsbury-over-aspir",
+    "title": "Former UBS fund sues law firm Pillsbury over Aspiration fraud",
+    "url": "https://www.americanbanker.com/news/former-ubs-fund-sues-law-firm-pillsbury-over-aspiration-fraud",
+    "source": "American Banker",
+    "date": "2026-06-05",
+    "sectors": [
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.6,
+    "image_url": "https://arizent.brightspotcdn.com/dims4/default/b26afc0/2147483647/strip/true/crop/1536x1024+0+0/resize/1013x675!/format/jpg/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fb0%2Fba%2F682514b747b39c832a175ecea2c8%2Fchatgpt-image-jun-5-2026-at-12-01-25-pm.jpg",
+    "fetched_at": "2026-06-06T13:55:43.201Z"
+  },
+  {
+    "id": "wire-2026-06-05-payments-dive-states-aim-to-keep-stablecoin-purview",
+    "title": "States aim to keep stablecoin purview",
+    "url": "https://www.paymentsdive.com/news/states-seek-stablecoin-oversight-crypto-genius-act/822124/",
+    "source": "Payments Dive",
+    "date": "2026-06-05",
+    "sectors": [
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US",
+      "US-STATE"
+    ],
+    "regulators": [],
+    "score": 0.9,
+    "image_url": "https://imgproxy.divecdn.com/2OXwH5o_n2KeJm-7mshgTWNBoUnfLXlLZF4WY2TLKpc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05NjIyODc5MC5qcGc=.webp",
+    "fetched_at": "2026-06-06T13:55:42.129Z"
+  },
+  {
+    "id": "wire-2026-06-05-the-defiant-cme-ceo-terry-duffy-calls-us-crypto-perps-a-disast",
+    "title": "CME CEO Terry Duffy Calls US Crypto Perps 'a Disaster Waiting to Happen'",
+    "url": "https://thedefiant.io/news/markets/cme-ceo-terry-duffy-calls-us-crypto-perps-disaster-waiting-to-happen",
+    "source": "The Defiant",
+    "date": "2026-06-05",
+    "sectors": [
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "CFTC"
+    ],
+    "score": 0.7,
+    "image_url": "https://cdn.sanity.io/images/6oftkxoa/production/f528bc6f2131338df751073e753b1ff24ff67984-2048x1152.png",
+    "fetched_at": "2026-06-06T13:55:39.092Z"
+  },
+  {
+    "id": "wire-2026-06-05-decrypt-congress-gets-7-new-crypto-tax-bills-here-s-what-s",
+    "title": "Congress Gets 7 New Crypto Tax Bills: Here's What's In Them",
+    "url": "https://decrypt.co/370197/congress-7-crypto-tax-bills",
+    "source": "Decrypt",
+    "date": "2026-06-05",
+    "sectors": [
+      "CR"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "Congress"
+    ],
+    "score": 0.95,
+    "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg",
+    "fetched_at": "2026-06-06T13:55:38.176Z"
+  },
+  {
+    "id": "wire-2026-06-05-decrypt-government-stablecoin-payments-would-fuel-tax-evas",
+    "title": "Government Stablecoin Payments Would Fuel 'Tax Evasion Economy,' Lawmaker Warns",
+    "url": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
+    "source": "Decrypt",
+    "date": "2026-06-05",
+    "sectors": [
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "Congress"
+    ],
+    "score": 0.9,
+    "image_url": "https://cdn.decrypt.co/wp-content/uploads/2026/06/brad-sherman-decrypt-style-gID_7.jpg",
+    "fetched_at": "2026-06-06T13:55:38.176Z"
+  },
+  {
+    "id": "wire-2026-06-05-decrypt-hyperliquid-hit-by-uk-fca-warning-as-crypto-perps",
+    "title": "Hyperliquid Hit by UK FCA Warning as Crypto Perps Face Scrutiny",
+    "url": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
+    "source": "Decrypt",
+    "date": "2026-06-05",
+    "sectors": [
+      "CR"
+    ],
+    "jurisdictions": [
+      "UK"
+    ],
+    "regulators": [
+      "FCA"
+    ],
+    "score": 0.95,
+    "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg",
+    "fetched_at": "2026-06-06T13:55:38.176Z"
+  },
+  {
+    "id": "wire-2026-06-05-the-block-next-up-taxes-crypto-tax-legislation-circulated-ah",
+    "title": "Next up, taxes: Crypto tax legislation circulated ahead of House Ways and Means Committee hearing next week",
+    "url": "https://www.theblock.co/post/403851/next-up-taxes-crypto-tax-legislation-circulated-ahead-of-house-ways-and-means-committee-hearing-next-week?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "date": "2026-06-05",
+    "sectors": [
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "Congress"
+    ],
+    "score": 0.95,
+    "image_url": "https://www.tbstat.com/wp/uploads/2022/01/20210120_Capitol_Generic-800x450.jpg",
+    "fetched_at": "2026-06-06T13:55:37.472Z"
+  },
+  {
+    "id": "wire-2026-06-05-the-block-securitize-clears-sec-registration-statement-hurdl",
+    "title": "Securitize clears SEC registration statement hurdle, sets path to NYSE listing as SECZ",
+    "url": "https://www.theblock.co/post/403842/securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "date": "2026-06-05",
+    "sectors": [
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "SEC"
+    ],
+    "score": 0.7,
+    "image_url": "https://www.tbstat.com/wp/uploads/2025/10/20251028_Secrutize_News-800x450.jpg",
+    "fetched_at": "2026-06-06T13:55:37.472Z"
+  },
+  {
+    "id": "wire-2026-06-05-the-block-crypto-council-for-innovation-launches-coalition-t",
+    "title": "Crypto Council for Innovation launches coalition to push for regulatory clarity on vaults",
+    "url": "https://www.theblock.co/post/403829/crypto-council-for-innovation-launches-coalition-to-push-for-regulatory-clarity-on-vaults?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "date": "2026-06-05",
+    "sectors": [
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": "https://www.tbstat.com/wp/uploads/2022/04/20220422_Bullion-Vault-800x450.jpg",
+    "fetched_at": "2026-06-06T13:55:37.472Z"
+  },
+  {
+    "id": "wire-2026-06-05-the-block-cme-ceo-duffy-says-new-perpetual-futures-could-be",
+    "title": "CME CEO Duffy says new perpetual futures could be ‘disaster waiting to happen’",
+    "url": "https://www.theblock.co/post/403795/cme-ceo-duffy-says-new-perpetual-futures-could-be-disaster-waiting-to-happen?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "date": "2026-06-05",
+    "sectors": [
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.6,
+    "image_url": "https://www.tbstat.com/wp/uploads/2023/08/20230731_FuturesPerps_News-800x450.jpg",
+    "fetched_at": "2026-06-06T13:55:37.472Z"
+  },
+  {
+    "id": "wire-2026-06-05-the-block-hong-kong-taps-jpmorgan-hsbc-for-expert-group-to-s",
+    "title": "Hong Kong taps JPMorgan, HSBC for expert group to scale tokenized bonds",
+    "url": "https://www.theblock.co/post/403787/hong-kong-expert-group-tokenized-bonds?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "date": "2026-06-05",
+    "sectors": [
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": "https://www.tbstat.com/wp/uploads/2024/08/20240802_HongKong_News_1-800x450.jpg",
+    "fetched_at": "2026-06-06T13:55:37.472Z"
+  },
+  {
+    "id": "wire-2026-06-05-the-block-south-korean-police-investigate-local-polymarket-u",
+    "title": "South Korean police investigate local Polymarket users on illegal gambling charges: report",
+    "url": "https://www.theblock.co/post/403777/south-korean-police-investigates-local-polymarket-users?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "date": "2026-06-05",
+    "sectors": [
+      "CR",
+      "GG"
+    ],
+    "jurisdictions": [
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.85,
+    "image_url": "https://www.tbstat.com/wp/uploads/2024/11/20241111_Polymarket_News-800x450.jpg",
+    "fetched_at": "2026-06-06T13:55:37.472Z"
+  },
+  {
+    "id": "wire-2026-06-05-coindesk-blackrock-backed-tokenization-firm-securitize-clea",
+    "title": "BlackRock-backed tokenization firm Securitize clears key hurdle to go public on NYSE",
+    "url": "https://www.coindesk.com/business/2026/06/05/blackrock-backed-tokenization-firm-securitize-clears-key-hurdle-to-go-public-on-nyse",
+    "source": "CoinDesk",
+    "date": "2026-06-05",
+    "sectors": [
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "SEC"
+    ],
+    "score": 0.6,
+    "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/88f5265f9e7fa00589829ce020ec867ff5d6135f-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "fetched_at": "2026-06-06T13:55:36.838Z"
+  },
+  {
+    "id": "wire-2026-06-05-coindesk-u-s-house-tax-committee-weighs-crypto-bills-includ",
+    "title": "U.S. House tax committee weighs crypto bills, including relief for small transactions",
+    "url": "https://www.coindesk.com/policy/2026/06/05/u-s-house-tax-committee-weighs-crypto-bills-including-relief-for-small-transactions",
+    "source": "CoinDesk",
+    "date": "2026-06-05",
+    "sectors": [
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "Congress"
+    ],
+    "score": 0.95,
+    "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/76ac6a9933f2183d8b65539fa759ce4c5555a5cd-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "fetched_at": "2026-06-06T13:55:36.838Z"
+  },
+  {
+    "id": "wire-2026-06-05-coindesk-alsobrooks-says-clarity-act-needs-ethics-deal-befo",
+    "title": "Alsobrooks says Clarity Act needs ethics deal before Senate vote",
+    "url": "https://www.coindesk.com/coindesk-news/2026/06/05/alsobrooks-says-clarity-act-needs-ethics-deal-before-senate-vote",
+    "source": "CoinDesk",
+    "date": "2026-06-05",
+    "sectors": [
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "Congress"
+    ],
+    "score": 0.95,
+    "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/819ee928ae11cedc904f1d8a6577a15e40353b16-1628x912.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "fetched_at": "2026-06-06T13:55:36.838Z"
+  },
+  {
+    "id": "wire-2026-06-04-igaming-business-anj-launches-campaign-in-response-to-expected-bett",
+    "title": "ANJ launches campaign in response to expected betting increase during World Cup",
+    "url": "https://igamingbusiness.com/sports-betting/anj-launches-campaign-response-to-rising-betting-intentions-ahead-world-cup/",
+    "source": "iGaming Business",
+    "date": "2026-06-04",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "EU"
+    ],
+    "regulators": [
+      "ANJ"
+    ],
+    "score": 0.7,
+    "image_url": "https://igamingbusiness.com",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-06-04-igaming-business-new-south-wales-government-boosts-gambleaware-fund",
+    "title": "New South Wales government boosts GambleAware funding by $1.3 million",
+    "url": "https://igamingbusiness.com/sustainable-gambling/new-south-wales-government-boosts-gambleaware-funding-1million/",
+    "source": "iGaming Business",
+    "date": "2026-06-04",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.6,
+    "image_url": "https://igamingbusiness.com",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-06-04-igaming-business-nigeria-s-states-race-to-reshape-gambling-regulati",
+    "title": "Nigeria’s states race to reshape gambling regulation, but questions remain",
+    "url": "https://igamingbusiness.com/legal-compliance/regulation/nigeria-states-race-to-reshape-gambling-regulation/",
+    "source": "iGaming Business",
+    "date": "2026-06-04",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.8,
+    "image_url": "https://igamingbusiness.com/img-srv/DC6RKZqTpyLXCA0TKUCjWREqItX9rK_KN0rKdz9Vy04/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/cachebuster:filesize-666438/bG9jYWw6Ly8vaWdhbWluZ2J1c2luZXNzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNi9wZXhlbHMtYWtvb25pZS0yOTUzOTg4Ny1zY2FsZWQuanBn.webp",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-06-04-gambling-insider-kalshi-data-highlights-unusual-george-santos-tradi",
+    "title": "Kalshi Data Highlights Unusual George Santos Trading Before Federal Investigation",
+    "url": "https://www.gamblinginsider.com/news/165245/george-santos-kalshi-trading-investigation",
+    "source": "Gambling Insider",
+    "date": "2026-06-04",
+    "sectors": [
+      "GG",
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "DOJ",
+      "CFTC"
+    ],
+    "score": 0.8,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:56:01.528Z"
+  },
+  {
+    "id": "wire-2026-06-04-gambling-insider-polymarket-follows-kalshi-cftc-with-lawsuit-agains",
+    "title": "Polymarket Follows Kalshi, CFTC With Lawsuit Against Minnesota",
+    "url": "https://www.gamblinginsider.com/news/165116/polymarket-sues-minnesota-prediction-market-ban",
+    "source": "Gambling Insider",
+    "date": "2026-06-04",
+    "sectors": [
+      "GG",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US",
+      "US-STATE"
+    ],
+    "regulators": [
+      "CFTC"
+    ],
+    "score": 0.95,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:56:01.528Z"
+  },
+  {
+    "id": "wire-2026-06-04-the-record-trump-considers-palantir-exec-to-lead-cisa",
+    "title": "Trump considers Palantir exec to lead CISA",
+    "url": "https://therecord.media/trump-considers-palantir-exec-to-lead-cisa",
+    "source": "The Record",
+    "date": "2026-06-04",
+    "sectors": [
+      "CY"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "CISA"
+    ],
+    "score": 0.8,
+    "image_url": "http://cms.therecord.media/uploads/palantir_baadc03d05.jpg",
+    "fetched_at": "2026-06-06T13:55:54.966Z"
+  },
+  {
+    "id": "wire-2026-06-04-the-record-ftc-considers-setting-aside-or-modifying-150-milli",
+    "title": "FTC considers setting aside or modifying $150 million privacy penalty against X",
+    "url": "https://therecord.media/ftc-considers-modifying-150-million-twitter-privacy-fine",
+    "source": "The Record",
+    "date": "2026-06-04",
+    "sectors": [
+      "PV"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "FTC"
+    ],
+    "score": 0.95,
+    "image_url": "http://cms.therecord.media/uploads/X_julian_ad7255d602.jpg",
+    "fetched_at": "2026-06-06T13:55:54.966Z"
+  },
+  {
+    "id": "wire-2026-06-04-risky-business-srsly-risky-biz-nato-s-cyber-approach-needs-change",
+    "title": "Srsly Risky Biz: NATO's Cyber Approach Needs Change",
+    "url": "https://risky.biz/srsly-risky-biz-natos-cyber-approach-needs-change/",
+    "source": "Risky Business",
+    "date": "2026-06-04",
+    "sectors": [
+      "CY"
+    ],
+    "jurisdictions": [
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:53.880Z"
+  },
+  {
+    "id": "wire-2026-06-04-mit-technology-review-the-download-ai-generated-lawsuits-and-virtual-pow",
+    "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+    "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+    "source": "MIT Technology Review",
+    "date": "2026-06-04",
+    "sectors": [
+      "AI"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.6,
+    "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/SO21_TR_AI-531112094-edited-1.jpg",
+    "fetched_at": "2026-06-06T13:55:47.288Z"
+  },
+  {
+    "id": "wire-2026-06-04-mit-technology-review-how-courts-are-coping-with-a-flood-of-ai-generated",
+    "title": "How courts are coping with a flood of AI-generated lawsuits",
+    "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "source": "MIT Technology Review",
+    "date": "2026-06-04",
+    "sectors": [
+      "AI",
+      "PL"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:47.288Z"
+  },
+  {
+    "id": "wire-2026-06-04-payments-dive-colorado-interchange-fee-law-vetoed",
+    "title": "Colorado interchange fee law vetoed",
+    "url": "https://www.paymentsdive.com/news/colorado-interchange-fee-law-vetoed/822002/",
+    "source": "Payments Dive",
+    "date": "2026-06-04",
+    "sectors": [
+      "FT"
+    ],
+    "jurisdictions": [
+      "US-STATE"
+    ],
+    "regulators": [],
+    "score": 0.95,
+    "image_url": "https://imgproxy.divecdn.com/VRiUtsDuZI0yZ4MDMuonBj_qCqloEjeH6vx3p34Aktw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY3ODM2NzEwLmpwZw==.webp",
+    "fetched_at": "2026-06-06T13:55:42.129Z"
+  },
+  {
+    "id": "wire-2026-06-04-decrypt-republican-lawmaker-plans-to-add-prediction-market",
+    "title": "Republican Lawmaker Plans to Add Prediction Markets to Congressional Stock Ban Bill",
+    "url": "https://decrypt.co/370086/republican-lawmaker-add-prediction-markets-ongressional-stock-ban-bill",
+    "source": "Decrypt",
+    "date": "2026-06-04",
+    "sectors": [
+      "CR",
+      "GG"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "Congress"
+    ],
+    "score": 0.8,
+    "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-01-gID_7.png",
+    "fetched_at": "2026-06-06T13:55:38.176Z"
+  },
+  {
+    "id": "wire-2026-06-04-decrypt-doj-task-force-freezes-3-8m-in-illicit-crypto-with",
+    "title": "DOJ Task Force Freezes $3.8M in Illicit Crypto—With Help From Coinbase, SpaceX and Meta",
+    "url": "https://decrypt.co/370005/doj-task-force-freezes-3-8m-illicit-crypto-help-fcoinbase-spacex-meta",
+    "source": "Decrypt",
+    "date": "2026-06-04",
+    "sectors": [
+      "CR"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "DOJ"
+    ],
+    "score": 0.9,
+    "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
+    "fetched_at": "2026-06-06T13:55:38.176Z"
+  },
+  {
+    "id": "wire-2026-06-04-decrypt-british-teen-sanctioned-by-russia-after-alleging-c",
+    "title": "British Teen Sanctioned By Russia After Alleging Crypto Use to Evade Sanctions",
+    "url": "https://decrypt.co/370002/british-teen-sanctioned-russia-alleging-crypto-evade-sanctions",
+    "source": "Decrypt",
+    "date": "2026-06-04",
+    "sectors": [
+      "CR"
+    ],
+    "jurisdictions": [
+      "UK",
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg",
+    "fetched_at": "2026-06-06T13:55:38.176Z"
+  },
+  {
+    "id": "wire-2026-06-04-decrypt-us-bitcoin-reserve-moving-ahead-at-deliberate-spee",
+    "title": "US Bitcoin Reserve Moving Ahead at ‘Deliberate Speed’: Bessent",
+    "url": "https://decrypt.co/369993/us-bitcoin-reserve-moving-ahead-at-deliberate-speed-bessent",
+    "source": "Decrypt",
+    "date": "2026-06-04",
+    "sectors": [
+      "CR"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg",
+    "fetched_at": "2026-06-06T13:55:38.176Z"
+  },
+  {
+    "id": "wire-2026-06-04-the-block-white-house-crypto-adviser-witt-defends-clarity-ac",
+    "title": "White House crypto adviser Witt defends Clarity Act, calls it ‘pro-law enforcement’ as lawmakers race to pass bill",
+    "url": "https://www.theblock.co/post/403693/white-house-crypto-adviser-witt-defends-clarity-act-calls-it-pro-law-enforcement-as-lawmakers-race-to-pass-bill?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "date": "2026-06-04",
+    "sectors": [
+      "CR"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 1,
+    "image_url": "https://www.tbstat.com/wp/uploads/2026/02/image-d3d3f946-f84d-4ec0-af8e-b8e8f8da2cab-2-797x450.jpg",
+    "fetched_at": "2026-06-06T13:55:37.472Z"
+  },
+  {
+    "id": "wire-2026-06-03-igaming-business-rozier-defense-fights-back-after-prosecutors-file",
+    "title": "Rozier defense fights back after prosecutors file additional charges in sports betting case",
+    "url": "https://igamingbusiness.com/sports-betting/rozier-defense-fights-back-june-2026/",
+    "source": "iGaming Business",
+    "date": "2026-06-03",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": "https://igamingbusiness.com",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-06-03-igaming-business-ngb-warns-of-surge-in-illegal-betting-ahead-of-wor",
+    "title": "NGB warns of surge in illegal betting ahead of World Cup",
+    "url": "https://igamingbusiness.com/legal-compliance/ngb-warn-surge-illegal-betting-ahead-2026-fifa-world-cup/",
+    "source": "iGaming Business",
+    "date": "2026-06-03",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": "https://igamingbusiness.com",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-06-03-igaming-business-playcity-ukraine-issues-250-licences-in-new-regula",
+    "title": "PlayCity Ukraine issues 250 licences in new regulator’s first year",
+    "url": "https://igamingbusiness.com/legal-compliance/playcity-ukraine-250-licences-first-year/",
+    "source": "iGaming Business",
+    "date": "2026-06-03",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": "https://igamingbusiness.com",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-06-03-igaming-business-why-won-t-the-ecj-settle-the-player-losses-fight",
+    "title": "Why won’t the ECJ settle the player-losses fight?",
+    "url": "https://igamingbusiness.com/legal-compliance/why-wont-ecj-settle-player-losses-fight/",
+    "source": "iGaming Business",
+    "date": "2026-06-03",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "EU"
+    ],
+    "regulators": [],
+    "score": 0.8,
+    "image_url": "https://igamingbusiness.com/img-srv/sCpOIhPMXkfF9MOLr3-5IhqgJoE7Yqq-YpUMYanEalY/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/cachebuster:filesize-64549/bG9jYWw6Ly8vaWdhbWluZ2J1c2luZXNzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8wOC9za3ktc3Rhci1ldXJvcGUtZmxhZy1ibHVlLWludGVybmF0aW9uYWwtNjIzNDU5LXB4aGVyZS5jb21fLmpwZw.webp",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-06-03-igaming-business-hanoi-police-launches-criminal-proceeding-against",
+    "title": "Hanoi police launches criminal proceeding against agency supporting black-market gambling",
+    "url": "https://igamingbusiness.com/legal-compliance/hanoi-police-launch-criminal-proceedings-seo-gambling-case/",
+    "source": "iGaming Business",
+    "date": "2026-06-03",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.8,
+    "image_url": "https://igamingbusiness.com",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-06-03-gambling-insider-researcher-challenges-gsgb-participation-estimates",
+    "title": "Researcher Challenges GSGB Participation Estimates With Administrative Data",
+    "url": "https://www.gamblinginsider.com/news/164948/researcher-questions-gsgb-reliability-gambling-participation-data",
+    "source": "Gambling Insider",
+    "date": "2026-06-03",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "UK"
+    ],
+    "regulators": [
+      "UKGC"
+    ],
+    "score": 0.6,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:56:01.528Z"
+  },
+  {
+    "id": "wire-2026-06-03-gambling-insider-robinhood-s-rothera-launch-reshapes-its-role-in-th",
+    "title": "Robinhood’s Rothera Launch Reshapes Its Role in the Event Contract Market",
+    "url": "https://www.gamblinginsider.com/news/164923/robinhood-rothera-launch-event-contracts",
+    "source": "Gambling Insider",
+    "date": "2026-06-03",
+    "sectors": [
+      "GG",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "CFTC"
+    ],
+    "score": 0.7,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:56:01.528Z"
+  },
+  {
+    "id": "wire-2026-06-03-gambling-insider-new-jersey-assembly-committee-advances-online-micr",
+    "title": "New Jersey Assembly Committee Advances Online Micro-Betting Ban",
+    "url": "https://www.gamblinginsider.com/news/164915/new-jersey-assembly-committee-advances-micro-betting-ban",
+    "source": "Gambling Insider",
+    "date": "2026-06-03",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "US-STATE"
+    ],
+    "regulators": [],
+    "score": 1,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:56:01.528Z"
+  },
+  {
+    "id": "wire-2026-06-03-gambling-insider-nevada-secures-preliminary-injunction-against-poly",
+    "title": "Nevada Secures Preliminary Injunction Against Polymarket",
+    "url": "https://www.gamblinginsider.com/news/164899/nevada-preliminary-injunction-polymarket",
+    "source": "Gambling Insider",
+    "date": "2026-06-03",
+    "sectors": [
+      "GG",
+      "CR"
+    ],
+    "jurisdictions": [
+      "US-STATE"
+    ],
+    "regulators": [
+      "NGCB"
+    ],
+    "score": 1,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:56:01.528Z"
+  },
+  {
+    "id": "wire-2026-06-03-politico-ai-s-big-tobacco-danger",
+    "title": "AI’s ‘Big Tobacco’ danger",
+    "url": "https://www.politico.com/newsletters/digital-future-daily/2026/06/03/ais-big-tobacco-danger-00948243",
+    "source": "Politico",
+    "date": "2026-06-03",
+    "sectors": [
+      "AI",
+      "PL"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:55.969Z"
+  },
+  {
+    "id": "wire-2026-06-03-mit-technology-review-the-download-trump-s-new-ai-order-and-smart-glasse",
+    "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
+    "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+    "source": "MIT Technology Review",
+    "date": "2026-06-03",
+    "sectors": [
+      "AI"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.85,
+    "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/JA22_marseilles_mobile-edited-1.jpg",
+    "fetched_at": "2026-06-06T13:55:47.288Z"
+  },
+  {
+    "id": "wire-2026-06-03-fpf-privacy-becomes-you-bayou-state-a-look-at-the-loui",
+    "title": "Privacy Becomes You, Bayou State: A Look at the Louisiana Data Privacy Act",
+    "url": "https://fpf.org/blog/privacy-becomes-you-bayou-state-a-look-at-the-louisiana-data-privacy-act/",
+    "source": "FPF",
+    "date": "2026-06-03",
+    "sectors": [
+      "PV"
+    ],
+    "jurisdictions": [
+      "US-STATE"
+    ],
+    "regulators": [],
+    "score": 1,
+    "image_url": "https://fpf.org/wp-content/uploads/2026/06/image-771x1024.jpeg",
+    "fetched_at": "2026-06-06T13:55:45.385Z"
+  },
+  {
+    "id": "wire-2026-06-03-fpf-comparing-enacted-app-store-accountability-acts",
+    "title": "Comparing Enacted App Store Accountability Acts",
+    "url": "https://fpf.org/blog/comparing-enacted-app-store-accountability-acts/",
+    "source": "FPF",
+    "date": "2026-06-03",
+    "sectors": [
+      "PL",
+      "PV"
+    ],
+    "jurisdictions": [
+      "US-STATE"
+    ],
+    "regulators": [],
+    "score": 0.85,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:45.385Z"
+  },
+  {
+    "id": "wire-2026-06-03-payments-dive-cfpb-tells-bilt-to-repay-fees-from-card-swap-probl",
+    "title": "CFPB tells Bilt to repay fees from card-swap problems",
+    "url": "https://www.paymentsdive.com/news/cfpb-bilt-reimburse-customers-card-transition/821924/",
+    "source": "Payments Dive",
+    "date": "2026-06-03",
+    "sectors": [
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "CFPB"
+    ],
+    "score": 1,
+    "image_url": "https://imgproxy.divecdn.com/OUtqn6TuQArmOl3W8mctRYTI7iKLe6d_gBBBS5KNtH8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI1ODYzMTk3LmpwZw==.webp",
+    "fetched_at": "2026-06-06T13:55:42.129Z"
+  },
+  {
+    "id": "wire-2026-06-03-payments-dive-visa-mastercard-swipe-fee-fund-has-paid-414m",
+    "title": "Visa-Mastercard swipe fee fund has paid $414M",
+    "url": "https://www.paymentsdive.com/news/visa-mastercard-swipe-fee-fund-has-paid-414m/821869/",
+    "source": "Payments Dive",
+    "date": "2026-06-03",
+    "sectors": [
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": "https://imgproxy.divecdn.com/x1XrXjXBkyw-N6xRz6co-8vlPwjeQGNigWx29cJGsiE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjIxNjMyMzc3LmpwZw==.webp",
+    "fetched_at": "2026-06-06T13:55:42.129Z"
+  },
+  {
+    "id": "wire-2026-06-03-the-defiant-160-officials-tell-senate-to-pass-clarity-act-as-f",
+    "title": "160 Officials Tell Senate to Pass CLARITY Act as Floor Talks Resume",
+    "url": "https://thedefiant.io/converge/regulation/160-former-us-national-security-officials-tell-senate-to-pass-clarity-act-as-floor-talks-resume",
+    "source": "The Defiant",
+    "date": "2026-06-03",
+    "sectors": [
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "Congress",
+      "DOJ"
+    ],
+    "score": 1,
+    "image_url": "https://cdn.sanity.io/images/6oftkxoa/production/9308523aaa0d9adc5987e4da2c2fdf1ee1d4e4c7-2048x1152.png",
+    "fetched_at": "2026-06-06T13:55:39.092Z"
+  },
+  {
+    "id": "wire-2026-06-02-igaming-business-brazil-public-prosecutor-opens-inquiry-into-lula-g",
+    "title": "Brazil public prosecutor opens inquiry into Lula government’s role in overseeing betting",
+    "url": "https://igamingbusiness.com/sports-betting/online-sports-betting/brazil-inquiry-betting-oversight-lula-government/",
+    "source": "iGaming Business",
+    "date": "2026-06-02",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.9,
+    "image_url": "https://igamingbusiness.com/img-srv/RUGt4iq19Jo4npaPTq9SnyBp1Sl6a-zNVQNZ8ecK1AQ/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/cachebuster:filesize-1242071/bG9jYWw6Ly8vaWdhbWluZ2J1c2luZXNzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNi9icmF6aWwtbHVsYS1iZXR0aW5nLmpwZw.webp",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-06-02-igaming-business-what-we-already-know-about-austria-s-igaming-liber",
+    "title": "What we already know about Austria’s iGaming liberalisation",
+    "url": "https://igamingbusiness.com/legal-compliance/what-we-know-austria-igaming-liberalisation/",
+    "source": "iGaming Business",
+    "date": "2026-06-02",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "EU"
+    ],
+    "regulators": [],
+    "score": 0.95,
+    "image_url": "https://igamingbusiness.com/img-srv/WL1-w13Z6n6OCvxwpJyieZD2JvWMoYVEq6UkWy8pBKU/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/cachebuster:filesize-540061/bG9jYWw6Ly8vaWdhbWluZ2J1c2luZXNzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wMS9waWVycmUtYmxhY2hlLWNwY2tuNHdhOXZxLXVuc3BsYXNoLmpwZw.webp",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-06-02-the-defiant-us-treasury-adds-nobitex-and-three-other-iranian-e",
+    "title": "US Treasury Adds Nobitex and Three Other Iranian Exchanges to OFAC SDN List Under 'Economic Fury'",
+    "url": "https://thedefiant.io/news/regulation/us-treasury-nobitex-iran-crypto-exchanges-ofac-sdn-economic-fury",
+    "source": "The Defiant",
+    "date": "2026-06-02",
+    "sectors": [
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US",
+      "GLOBAL"
+    ],
+    "regulators": [
+      "OFAC"
+    ],
+    "score": 1,
+    "image_url": "https://cdn.sanity.io/images/6oftkxoa/production/b03218f8ff189f1e68631d3b8464160441abf3e8-2048x1152.png",
+    "fetched_at": "2026-06-06T13:55:39.092Z"
+  },
+  {
+    "id": "wire-2026-06-02-the-defiant-us-court-lifts-circle-freeze-on-zama-s-12-5m-cusdc",
+    "title": "US Court Lifts Circle Freeze on Zama's $12.5M cUSDC Contract After Three-Day Lockout",
+    "url": "https://thedefiant.io/news/defi/us-court-lifts-circle-freeze-zama-cusdc-three-day-lockout",
+    "source": "The Defiant",
+    "date": "2026-06-02",
+    "sectors": [
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.9,
+    "image_url": "https://cdn.sanity.io/images/6oftkxoa/production/9ef69f3bebf65df46660ee990809e050119850bd-2048x1152.png",
+    "fetched_at": "2026-06-06T13:55:39.092Z"
+  },
+  {
+    "id": "wire-2026-06-01-igaming-business-two-arrested-in-illegal-gambling-raid-in-mancheste",
+    "title": "Two arrested in illegal gambling raid in Manchester",
+    "url": "https://igamingbusiness.com/legal-compliance/two-arrested-illegal-gambling-raid-manchester/",
+    "source": "iGaming Business",
+    "date": "2026-06-01",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "UK"
+    ],
+    "regulators": [],
+    "score": 0.8,
+    "image_url": "https://igamingbusiness.com/img-srv/hNC983rGHjvuUJBJz0-A6t2le3y-qg06rjXUaX_EVpc/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/cachebuster:filesize-139307/bG9jYWw6Ly8vaWdhbWluZ2J1c2luZXNzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNi9tYW5jaGVzdGVyLXN0cmVldC12aWV3LmpwZw.webp",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-06-01-igaming-business-dr-congo-plans-centralised-gambling-monitoring-pla",
+    "title": "DR Congo plans centralised gambling monitoring platform amid FATF pressure",
+    "url": "https://igamingbusiness.com/legal-compliance/dr-congo-plans-centralised-gambling-monitoring-platform/",
+    "source": "iGaming Business",
+    "date": "2026-06-01",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": "https://igamingbusiness.com/img-srv/Rhv4ClMPsMXEG2TD77Bwc5VUBR16EOGWorm5gd8vPOM/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/cachebuster:filesize-71403/bG9jYWw6Ly8vaWdhbWluZ2J1c2luZXNzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNi9kci1jb25nby1mbGFnLmpwZw.webp",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-06-01-risky-business-risky-bulletin-russia-greatly-expands-sorm-surveil",
+    "title": "Risky Bulletin: Russia greatly expands SORM surveillance requirements",
+    "url": "https://risky.biz/risky-bulletin-russia-greatly-expands-sorm-surveillance-requirements/",
+    "source": "Risky Business",
+    "date": "2026-06-01",
+    "sectors": [
+      "PV",
+      "CY"
+    ],
+    "jurisdictions": [
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.8,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:53.880Z"
+  },
+  {
+    "id": "wire-2026-06-01-dark-reading-anthropic-to-open-mythos-ai-to-eu-s-enisa",
+    "title": "Anthropic to Open Mythos AI to EU's ENISA",
+    "url": "https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa",
+    "source": "Dark Reading",
+    "date": "2026-06-01",
+    "sectors": [
+      "AI",
+      "CY"
+    ],
+    "jurisdictions": [
+      "EU"
+    ],
+    "regulators": [
+      "ENISA",
+      "EC"
+    ],
+    "score": 0.8,
+    "image_url": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt301abc846275d0a4/6a1de7c8479f3e4dd25cf448/enisa_ricochet64_shuttrstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "fetched_at": "2026-06-06T13:55:51.442Z"
+  },
+  {
+    "id": "wire-2026-06-01-dark-reading-microsoft-s-zero-day-legal-threats-spark-backlash",
+    "title": "Microsoft's Zero-Day Legal Threats Spark Backlash",
+    "url": "https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash",
+    "source": "Dark Reading",
+    "date": "2026-06-01",
+    "sectors": [
+      "CY"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.6,
+    "image_url": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt110b7f1326599f0b/6a1dd3554d48bfcf20ade268/RMmicrosoft-DrewAngerer-Getty-675949746.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "fetched_at": "2026-06-06T13:55:51.442Z"
+  },
+  {
+    "id": "wire-2026-05-29-igaming-business-prediction-market-roundup-google-employee-charged",
+    "title": "Prediction market roundup: Google employee charged with insider trading; CFTC approves unique crypto trades",
+    "url": "https://igamingbusiness.com/prediction-markets/prediction-market-roundup-52926/",
+    "source": "iGaming Business",
+    "date": "2026-05-29",
+    "sectors": [
+      "GG",
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "CFTC"
+    ],
+    "score": 0.8,
+    "image_url": "https://igamingbusiness.com",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-05-29-igaming-business-pagcor-launches-24-7-national-helpline-for-problem",
+    "title": "Pagcor launches 24/7 national helpline for problem gambling",
+    "url": "https://igamingbusiness.com/sustainable-gambling/pagcor-launches-24-7-national-helpline-problem-gambling/",
+    "source": "iGaming Business",
+    "date": "2026-05-29",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.6,
+    "image_url": "https://igamingbusiness.com",
+    "fetched_at": "2026-06-06T13:56:02.917Z"
+  },
+  {
+    "id": "wire-2026-05-29-risky-business-risky-bulletin-dutch-police-take-down-giant-botnet",
+    "title": "Risky Bulletin: Dutch police take down giant botnet of 17 million devices",
+    "url": "https://risky.biz/risky-bulletin-dutch-police-take-down-giant-botnet-of-17-million-devices/",
+    "source": "Risky Business",
+    "date": "2026-05-29",
+    "sectors": [
+      "CY"
+    ],
+    "jurisdictions": [
+      "EU"
+    ],
+    "regulators": [],
+    "score": 0.9,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:53.880Z"
+  },
+  {
+    "id": "wire-2026-05-29-fpf-no-silver-bullet-but-a-silver-lining-pets-and-inte",
+    "title": "No Silver Bullet, But a Silver Lining? PETs and International Data Transfers",
+    "url": "https://fpf.org/blog/no-silver-bullet-but-a-silver-lining-pets-and-international-data-transfers/",
+    "source": "FPF",
+    "date": "2026-05-29",
+    "sectors": [
+      "PV",
+      "AI"
+    ],
+    "jurisdictions": [
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:45.385Z"
+  },
+  {
+    "id": "wire-2026-05-28-dark-reading-dutch-raid-fails-to-dent-russian-bulletproof-host",
+    "title": "Dutch Raid Fails to Dent Russian Bulletproof Host",
+    "url": "https://www.darkreading.com/cyber-risk/dutch-raid-russian-bulletproof-host",
+    "source": "Dark Reading",
+    "date": "2026-05-28",
+    "sectors": [
+      "CY"
+    ],
+    "jurisdictions": [
+      "EU"
+    ],
+    "regulators": [],
+    "score": 0.8,
+    "image_url": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt75939e9e57fa1b91/6a1777b27e488fa22d7404ec/bulletproof_Viktollio_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "fetched_at": "2026-06-06T13:55:51.442Z"
+  },
+  {
+    "id": "wire-2026-05-28-ft-alphaville-what-made-the-doj-go-after-this-particular-predict",
+    "title": "What made the DoJ go after this particular prediction market insider?",
+    "url": "https://www.ft.com/content/393182f4-26bf-437d-8e82-c9a4bd10ea65",
+    "source": "FT Alphaville",
+    "date": "2026-05-28",
+    "sectors": [
+      "CR",
+      "GG"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "DOJ"
+    ],
+    "score": 0.95,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:41.241Z"
+  },
+  {
+    "id": "wire-2026-05-27-legal-sports-report-comer-launches-investigation-into-insider-trading",
+    "title": "Comer Launches Investigation Into Insider Trading On Prediction Markets",
+    "url": "https://www.legalsportsreport.com/264719/comer-launches-investigation-into-insider-trading-on-prediction-markets/",
+    "source": "Legal Sports Report",
+    "date": "2026-05-27",
+    "sectors": [
+      "GG",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "Congress",
+      "CFTC"
+    ],
+    "score": 0.9,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:56:04.616Z"
+  },
+  {
+    "id": "wire-2026-05-27-legal-sports-report-ct-sports-betting-laws-now-include-toll-free-help",
+    "title": "CT Sports Betting Laws Now Include Toll-Free Help Lines, Felonies For Cheaters",
+    "url": "https://www.legalsportsreport.com/264667/ct-sports-betting-laws-now-include-toll-free-help-lines-felonies-for-cheaters/",
+    "source": "Legal Sports Report",
+    "date": "2026-05-27",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "US-STATE"
+    ],
+    "regulators": [],
+    "score": 0.95,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:56:04.616Z"
+  },
+  {
+    "id": "wire-2026-05-27-politico-the-case-against-ai-personhood",
+    "title": "The case against AI personhood",
+    "url": "https://www.politico.com/newsletters/digital-future-daily/2026/05/27/the-case-against-ai-personhood-00938508",
+    "source": "Politico",
+    "date": "2026-05-27",
+    "sectors": [
+      "AI",
+      "PL"
+    ],
+    "jurisdictions": [
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:55.969Z"
+  },
+  {
+    "id": "wire-2026-05-27-dark-reading-ransomware-actors-show-up-in-person-to-steal-law-f",
+    "title": "Ransomware Actors Show Up In Person to Steal Law Firm Data",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-actors-steal-law-firm-data",
+    "source": "Dark Reading",
+    "date": "2026-05-27",
+    "sectors": [
+      "CY"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "FBI"
+    ],
+    "score": 0.8,
+    "image_url": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8feb125a519f8c9d/6a1745ffd8e1c3494b5e2e18/angry_businessman_Liubomyr_Vorona_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "fetched_at": "2026-06-06T13:55:51.442Z"
+  },
+  {
+    "id": "wire-2026-05-27-the-markup-the-form-asked-my-permission-to-share-my-health-da",
+    "title": "The form asked my permission to share my health data. Then it wouldn’t let me say no.",
+    "url": "https://themarkup.org/privacy/2026/05/27/opt-out-dark-patterns",
+    "source": "The Markup",
+    "date": "2026-05-27",
+    "sectors": [
+      "PV",
+      "PL"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "FTC"
+    ],
+    "score": 0.8,
+    "image_url": "https://mrkp-static-production.themarkup.org/uploads/2026/05/052226-OPT-OUT-MAZES-GH-TM.jpg",
+    "fetched_at": "2026-06-06T13:55:49.115Z"
+  },
+  {
+    "id": "wire-2026-05-27-fpf-sb-5-in-five-what-to-know-about-connecticut-s-new",
+    "title": "SB 5 in Five: What to Know About Connecticut’s New AI Law",
+    "url": "https://fpf.org/blog/sb-5-in-five-what-to-know-about-connecticuts-new-ai-law/",
+    "source": "FPF",
+    "date": "2026-05-27",
+    "sectors": [
+      "AI",
+      "PV",
+      "PL"
+    ],
+    "jurisdictions": [
+      "US-STATE"
+    ],
+    "regulators": [],
+    "score": 1,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:45.385Z"
+  },
+  {
+    "id": "wire-2026-05-27-fpf-third-time-s-the-charm-connecticut-enacts-annual-p",
+    "title": "Third Time’s the Charm: Connecticut Enacts Annual Privacy Update",
+    "url": "https://fpf.org/blog/third-times-the-charm-connecticut-enacts-annual-privacy-update/",
+    "source": "FPF",
+    "date": "2026-05-27",
+    "sectors": [
+      "PV"
+    ],
+    "jurisdictions": [
+      "US-STATE"
+    ],
+    "regulators": [],
+    "score": 1,
+    "image_url": "https://fpf.org/wp-content/uploads/2026/05/image-1-1024x659.png",
+    "fetched_at": "2026-06-06T13:55:45.385Z"
+  },
+  {
+    "id": "wire-2026-05-26-dark-reading-state-cyber-leaders-push-congress-for-more-funding",
+    "title": "State Cyber Leaders Push Congress for More Funding, Support",
+    "url": "https://www.darkreading.com/threat-intelligence/state-leaders-beg-congress-resume-cyber-funding",
+    "source": "Dark Reading",
+    "date": "2026-05-26",
+    "sectors": [
+      "CY"
+    ],
+    "jurisdictions": [
+      "US",
+      "US-STATE"
+    ],
+    "regulators": [
+      "Congress",
+      "CISA"
+    ],
+    "score": 0.9,
+    "image_url": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12b0781abe98a796/6824a51351025e2a07815d92/Congress_(1800)_Gang_Liu_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "fetched_at": "2026-06-06T13:55:51.442Z"
+  },
+  {
+    "id": "wire-2026-05-25-krebs-on-security-netherlands-seizes-800-servers-arrests-2-for-aidin",
+    "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+    "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+    "source": "Krebs on Security",
+    "date": "2026-05-25",
+    "sectors": [
+      "CY"
+    ],
+    "jurisdictions": [
+      "EU"
+    ],
+    "regulators": [],
+    "score": 1,
+    "image_url": "https://krebsonsecurity.com/wp-content/uploads/2026/05/fiod-mirhosting.png",
+    "fetched_at": "2026-06-06T13:55:50.155Z"
+  },
+  {
+    "id": "wire-2026-05-22-legal-sports-report-louisiana-bill-banning-bettors-that-harass-athlete",
+    "title": "Louisiana Bill Banning Bettors That Harass Athletes Sent To Landry’s Desk",
+    "url": "https://www.legalsportsreport.com/264293/louisiana-bill-banning-bettors-that-harass-athletes-sent-to-landrys-desk/",
+    "source": "Legal Sports Report",
+    "date": "2026-05-22",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "US-STATE"
+    ],
+    "regulators": [],
+    "score": 0.95,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:56:04.616Z"
+  },
+  {
+    "id": "wire-2026-05-22-legal-sports-report-polymarket-adds-multi-leg-contracts-as-it-chases-k",
+    "title": "Polymarket Adds Multi-Leg Contracts As It Chases Kalshi, Sportsbooks",
+    "url": "https://www.legalsportsreport.com/264161/polymarket-adds-multi-leg-contracts-as-it-chases-kalshi-sportsbooks/",
+    "source": "Legal Sports Report",
+    "date": "2026-05-22",
+    "sectors": [
+      "GG",
+      "CR",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "CFTC"
+    ],
+    "score": 0.85,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:56:04.616Z"
+  },
+  {
+    "id": "wire-2026-05-22-krebs-on-security-lawmakers-demand-answers-as-cisa-tries-to-contain",
+    "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+    "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+    "source": "Krebs on Security",
+    "date": "2026-05-22",
+    "sectors": [
+      "CY"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "CISA",
+      "Congress"
+    ],
+    "score": 0.95,
+    "image_url": "https://krebsonsecurity.com/wp-content/uploads/2026/05/CISA-logo.png",
+    "fetched_at": "2026-06-06T13:55:50.155Z"
+  },
+  {
+    "id": "wire-2026-05-22-the-markup-it-s-easier-for-californians-to-escape-data-broker",
+    "title": "It’s easier for Californians to escape data brokers following a Markup investigation",
+    "url": "https://themarkup.org/privacy/2026/05/22/its-easier-for-californians-to-escape-data-brokers-following-a-markup-investigation",
+    "source": "The Markup",
+    "date": "2026-05-22",
+    "sectors": [
+      "PV"
+    ],
+    "jurisdictions": [
+      "US-STATE"
+    ],
+    "regulators": [],
+    "score": 0.85,
+    "image_url": "https://mrkp-static-production.themarkup.org/uploads/2026/05/021925-Maggie-Hassan-REUTERS-MU-01.jpg",
+    "fetched_at": "2026-06-06T13:55:49.115Z"
+  },
+  {
+    "id": "wire-2026-05-21-politico-deepfakes-are-testing-the-limits-of-ip-law",
+    "title": "Deepfakes are testing the limits of IP law",
+    "url": "https://www.politico.com/newsletters/digital-future-daily/2026/05/21/deepfakes-are-testing-the-limits-of-ip-law-00932472",
+    "source": "Politico",
+    "date": "2026-05-21",
+    "sectors": [
+      "PL",
+      "AI"
+    ],
+    "jurisdictions": [
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.8,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:55.969Z"
+  },
+  {
+    "id": "wire-2026-05-21-krebs-on-security-alleged-kimwolf-botmaster-dort-arrested-charged-in",
+    "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
+    "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+    "source": "Krebs on Security",
+    "date": "2026-05-21",
+    "sectors": [
+      "CY"
+    ],
+    "jurisdictions": [
+      "US",
+      "GLOBAL"
+    ],
+    "regulators": [
+      "DOJ"
+    ],
+    "score": 0.9,
+    "image_url": "https://krebsonsecurity.com/wp-content/uploads/2026/05/dortswat-doj.png",
+    "fetched_at": "2026-06-06T13:55:50.155Z"
+  },
+  {
+    "id": "wire-2026-05-20-legal-sports-report-senate-hearing-starts-the-conversation-on-regulati",
+    "title": "Senate Hearing Starts The Conversation On Regulating Prediction Markets",
+    "url": "https://www.legalsportsreport.com/263876/senate-hearing-starts-the-conversation-on-regulating-prediction-markets/",
+    "source": "Legal Sports Report",
+    "date": "2026-05-20",
+    "sectors": [
+      "GG",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "Congress",
+      "CFTC"
+    ],
+    "score": 0.85,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:56:04.616Z"
+  },
+  {
+    "id": "wire-2026-05-20-politico-the-new-race-to-keep-up-with-ai",
+    "title": "The new race to keep up with AI",
+    "url": "https://www.politico.com/newsletters/digital-future-daily/2026/05/20/the-new-race-to-keep-up-with-ai-00930488",
+    "source": "Politico",
+    "date": "2026-05-20",
+    "sectors": [
+      "AI",
+      "PL"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:55.969Z"
+  },
+  {
+    "id": "wire-2026-05-20-risky-business-risky-bulletin-microsoft-takes-down-msaas-used-by",
+    "title": "Risky Bulletin: Microsoft takes down MSaaS used by ransomware gangs",
+    "url": "https://risky.biz/risky-bulletin-microsoft-takes-down-msaas-used-by-ransomware-gangs/",
+    "source": "Risky Business",
+    "date": "2026-05-20",
+    "sectors": [
+      "CY"
+    ],
+    "jurisdictions": [
+      "US",
+      "GLOBAL"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:53.880Z"
+  },
+  {
+    "id": "wire-2026-05-19-legal-sports-report-cftc-sues-minnesota-after-state-bans-sports-predic",
+    "title": "CFTC Sues Minnesota After State Bans Sports Prediction Markets",
+    "url": "https://www.legalsportsreport.com/263789/cftc-sues-minnesota-after-state-bans-sports-prediction-markets/",
+    "source": "Legal Sports Report",
+    "date": "2026-05-19",
+    "sectors": [
+      "GG",
+      "FT"
+    ],
+    "jurisdictions": [
+      "US",
+      "US-STATE"
+    ],
+    "regulators": [
+      "CFTC"
+    ],
+    "score": 1,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:56:04.616Z"
+  },
+  {
+    "id": "wire-2026-05-19-legal-sports-report-new-federal-proposal-would-prohibit-online-ads-tar",
+    "title": "New Federal Proposal Would Prohibit Online Ads Targeting Minors",
+    "url": "https://www.legalsportsreport.com/263745/new-federal-proposal-would-prohibit-online-ads-targeting-minors/",
+    "source": "Legal Sports Report",
+    "date": "2026-05-19",
+    "sectors": [
+      "GG"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "Congress"
+    ],
+    "score": 1,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:56:04.616Z"
+  },
+  {
+    "id": "wire-2026-05-19-fpf-colorado-revises-its-ai-act-what-changed-and-why",
+    "title": "Colorado Revises Its AI Act: What Changed and Why",
+    "url": "https://fpf.org/blog/colorado-revises-its-ai-act-what-changed-and-why/",
+    "source": "FPF",
+    "date": "2026-05-19",
+    "sectors": [
+      "AI",
+      "PV"
+    ],
+    "jurisdictions": [
+      "US-STATE"
+    ],
+    "regulators": [],
+    "score": 1,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:45.385Z"
+  },
+  {
+    "id": "wire-2026-05-18-krebs-on-security-cisa-admin-leaked-aws-govcloud-keys-on-github",
+    "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+    "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+    "source": "Krebs on Security",
+    "date": "2026-05-18",
+    "sectors": [
+      "CY"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "CISA"
+    ],
+    "score": 0.9,
+    "image_url": "https://krebsonsecurity.com/wp-content/uploads/2026/05/privatecisa.png",
+    "fetched_at": "2026-06-06T13:55:50.155Z"
+  },
+  {
+    "id": "wire-2026-05-14-politico-ai-cyber-fears-get-a-reality-check",
+    "title": "AI cyber fears get a reality check",
+    "url": "https://www.politico.com/newsletters/digital-future-daily/2026/05/14/ai-cyber-fears-get-a-reality-check-00921636",
+    "source": "Politico",
+    "date": "2026-05-14",
+    "sectors": [
+      "AI",
+      "CY"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.6,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:55.969Z"
+  },
+  {
+    "id": "wire-2026-05-14-risky-business-srsly-risky-biz-the-ai-regulation-knife-fight",
+    "title": "Srsly Risky Biz: The AI Regulation Knife Fight",
+    "url": "https://risky.biz/srsly-risky-biz-the-ai-regulation-knife-fight/",
+    "source": "Risky Business",
+    "date": "2026-05-14",
+    "sectors": [
+      "AI",
+      "CY"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.85,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:53.880Z"
+  },
+  {
+    "id": "wire-2026-05-13-politico-the-plaintiffs-attorney-taking-on-social-media-gia",
+    "title": "The plaintiffs’ attorney taking on social media giants",
+    "url": "https://www.politico.com/newsletters/digital-future-daily/2026/05/13/the-plaintiffs-attorney-taking-on-social-media-giants-00918879",
+    "source": "Politico",
+    "date": "2026-05-13",
+    "sectors": [
+      "PL"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:55.969Z"
+  },
+  {
+    "id": "wire-2026-05-12-fpf-the-eu-commission-s-approach-to-age-verification-m",
+    "title": "The EU Commission’s Approach to Age Verification: Mobile Apps, DSA Enforcement, and Challenging National Social Media Bans",
+    "url": "https://fpf.org/blog/the-eu-commissions-approach-to-age-verification-mobile-apps-dsa-enforcement-and-challenging-national-social-media-bans/",
+    "source": "FPF",
+    "date": "2026-05-12",
+    "sectors": [
+      "PL",
+      "PV"
+    ],
+    "jurisdictions": [
+      "EU"
+    ],
+    "regulators": [
+      "EC"
+    ],
+    "score": 0.9,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:45.385Z"
+  },
+  {
+    "id": "wire-2026-05-11-risky-business-risky-bulletin-fcc-relaxes-foreign-router-ban-to-a",
+    "title": "Risky Bulletin: FCC relaxes foreign router ban to allow for security updates",
+    "url": "https://risky.biz/risky-bulletin-fcc-relaxes-foreign-router-ban-to-allow-for-security-updates/",
+    "source": "Risky Business",
+    "date": "2026-05-11",
+    "sectors": [
+      "CY"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [
+      "FCC"
+    ],
+    "score": 1,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:53.880Z"
+  },
+  {
+    "id": "wire-2026-05-07-politico-how-antitrust-law-could-weaken-ai-security",
+    "title": "How antitrust law could weaken AI security",
+    "url": "https://www.politico.com/newsletters/digital-future-daily/2026/05/07/how-antitrust-law-could-weaken-ai-security-00910499",
+    "source": "Politico",
+    "date": "2026-05-07",
+    "sectors": [
+      "AI",
+      "PL",
+      "CY"
+    ],
+    "jurisdictions": [
+      "US"
+    ],
+    "regulators": [],
+    "score": 0.7,
+    "image_url": null,
+    "fetched_at": "2026-06-06T13:55:55.969Z"
+  }
+]

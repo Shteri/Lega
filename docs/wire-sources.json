@@ -1,0 +1,263 @@
+[
+  {
+    "id": "coindesk",
+    "name": "CoinDesk", "full_name": "CoinDesk — Crypto News",
+    "jurisdiction": "GLOBAL", "sectors": ["CR","FT"],
+    "strategy": "rss", "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "priority": "high", "poll_interval_hours": 1,
+    "status": "verified"
+  },
+  {
+    "id": "the-block",
+    "name": "The Block", "full_name": "The Block — Crypto News & Research",
+    "jurisdiction": "GLOBAL", "sectors": ["CR","FT"],
+    "strategy": "rss", "feed_url": "https://www.theblock.co/rss.xml",
+    "priority": "high", "poll_interval_hours": 1,
+    "status": "verified"
+  },
+  {
+    "id": "decrypt",
+    "name": "Decrypt", "full_name": "Decrypt — Crypto & Web3 News",
+    "jurisdiction": "GLOBAL", "sectors": ["CR"],
+    "strategy": "rss", "feed_url": "https://decrypt.co/feed",
+    "priority": "medium", "poll_interval_hours": 1,
+    "status": "verified"
+  },
+  {
+    "id": "the-defiant",
+    "name": "The Defiant", "full_name": "The Defiant — DeFi News",
+    "jurisdiction": "GLOBAL", "sectors": ["CR","FT"],
+    "strategy": "rss", "feed_url": "https://thedefiant.io/api/feed",
+    "priority": "medium", "poll_interval_hours": 4,
+    "status": "verified"
+  },
+  {
+    "id": "blockworks",
+    "name": "Blockworks", "full_name": "Blockworks — Crypto Markets & Onchain Finance",
+    "jurisdiction": "GLOBAL", "sectors": ["CR","FT"],
+    "strategy": "rss", "feed_url": "https://blockworks.com/feed",
+    "priority": "medium", "poll_interval_hours": 4,
+    "status": "verified",
+    "note": "blockworks.co/feed 308-redirects to blockworks.com/feed — use the .com URL"
+  },
+  {
+    "id": "ft-alphaville",
+    "name": "FT Alphaville", "full_name": "Financial Times — Alphaville",
+    "jurisdiction": "GLOBAL", "sectors": ["FT","CR"],
+    "strategy": "rss", "feed_url": "https://www.ft.com/alphaville?format=rss",
+    "priority": "medium", "poll_interval_hours": 4,
+    "status": "unverified",
+    "note": "URL is the documented FT myFT/section RSS format, but ft.com blocks automated fetch from this environment — could not confirm the feed returns content"
+  },
+  {
+    "id": "payments-dive",
+    "name": "Payments Dive", "full_name": "Payments Dive — Payments Industry News",
+    "jurisdiction": "US", "sectors": ["FT"],
+    "strategy": "rss", "feed_url": "https://www.paymentsdive.com/feeds/news/",
+    "priority": "high", "poll_interval_hours": 2,
+    "status": "verified"
+  },
+  {
+    "id": "american-banker",
+    "name": "American Banker", "full_name": "American Banker — Banking News",
+    "jurisdiction": "US", "sectors": ["FT"],
+    "strategy": "rss", "feed_url": "https://www.americanbanker.com/feed?rss=true",
+    "priority": "high", "poll_interval_hours": 2,
+    "status": "verified"
+  },
+  {
+    "id": "tearsheet",
+    "name": "Tearsheet", "full_name": "Tearsheet — Fintech & Banking",
+    "jurisdiction": "US", "sectors": ["FT"],
+    "strategy": "rss", "feed_url": "https://tearsheet.co/feed/",
+    "priority": "medium", "poll_interval_hours": 4,
+    "status": "verified"
+  },
+  {
+    "id": "iapp",
+    "name": "IAPP", "full_name": "IAPP — Daily Dashboard (Privacy News)",
+    "jurisdiction": "GLOBAL", "sectors": ["PV","AI"],
+    "strategy": "rss", "feed_url": null, "page_url": "https://iapp.org/news",
+    "priority": "high", "poll_interval_hours": 4,
+    "status": "unverified",
+    "note": "Both candidate paths (/rss/daily-dashboard/ and /feeds/daily_dashboard/) return an HTML page, not a feed — no working public RSS endpoint found"
+  },
+  {
+    "id": "fpf",
+    "name": "FPF", "full_name": "Future of Privacy Forum — Blog",
+    "jurisdiction": "US", "sectors": ["PV","AI"],
+    "strategy": "rss", "feed_url": "https://fpf.org/feed/",
+    "priority": "medium", "poll_interval_hours": 8,
+    "status": "verified"
+  },
+  {
+    "id": "techcrunch-ai",
+    "name": "TechCrunch", "full_name": "TechCrunch — Artificial Intelligence",
+    "jurisdiction": "US", "sectors": ["AI"],
+    "strategy": "rss", "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "priority": "high", "poll_interval_hours": 2,
+    "status": "verified"
+  },
+  {
+    "id": "mit-tech-review",
+    "name": "MIT Technology Review", "full_name": "MIT Technology Review",
+    "jurisdiction": "US", "sectors": ["AI","CY"],
+    "strategy": "rss", "feed_url": "https://www.technologyreview.com/feed/",
+    "priority": "medium", "poll_interval_hours": 8,
+    "status": "verified"
+  },
+  {
+    "id": "the-markup",
+    "name": "The Markup", "full_name": "The Markup — Technology Accountability",
+    "jurisdiction": "US", "sectors": ["PV","AI","PL"],
+    "strategy": "rss", "feed_url": "https://themarkup.org/feeds/rss.xml",
+    "priority": "medium", "poll_interval_hours": 8,
+    "status": "verified"
+  },
+  {
+    "id": "krebs-on-security",
+    "name": "Krebs on Security", "full_name": "Krebs on Security",
+    "jurisdiction": "GLOBAL", "sectors": ["CY"],
+    "strategy": "rss", "feed_url": "https://krebsonsecurity.com/feed/",
+    "priority": "high", "poll_interval_hours": 4,
+    "status": "verified"
+  },
+  {
+    "id": "dark-reading",
+    "name": "Dark Reading", "full_name": "Dark Reading — Cybersecurity News",
+    "jurisdiction": "GLOBAL", "sectors": ["CY"],
+    "strategy": "rss", "feed_url": "https://www.darkreading.com/rss.xml",
+    "priority": "high", "poll_interval_hours": 2,
+    "status": "verified"
+  },
+  {
+    "id": "bleeping-computer",
+    "name": "BleepingComputer", "full_name": "BleepingComputer — Security & Tech News",
+    "jurisdiction": "GLOBAL", "sectors": ["CY"],
+    "strategy": "rss", "feed_url": "https://www.bleepingcomputer.com/feed/",
+    "priority": "high", "poll_interval_hours": 2,
+    "status": "verified"
+  },
+  {
+    "id": "risky-business",
+    "name": "Risky Business", "full_name": "Risky Business — Cybersecurity Newsletters",
+    "jurisdiction": "GLOBAL", "sectors": ["CY"],
+    "strategy": "rss", "feed_url": "https://risky.biz/feeds/newsletters/",
+    "priority": "medium", "poll_interval_hours": 8,
+    "status": "verified",
+    "note": "Newsletter feed (Risky Business News / Risky Bulletin) — the text-news feed rather than the podcast-only feeds"
+  },
+  {
+    "id": "recorded-future",
+    "name": "The Record", "full_name": "The Record from Recorded Future News",
+    "jurisdiction": "GLOBAL", "sectors": ["CY"],
+    "strategy": "rss", "feed_url": "https://therecord.media/feed/",
+    "priority": "high", "poll_interval_hours": 4,
+    "status": "verified",
+    "note": "Recorded Future's news outlet publishes at therecord.media"
+  },
+  {
+    "id": "politico-tech",
+    "name": "Politico", "full_name": "POLITICO — Morning Tech",
+    "jurisdiction": "US", "sectors": ["PL","AI"],
+    "strategy": "rss", "feed_url": "https://rss.politico.com/morningtech.xml",
+    "priority": "high", "poll_interval_hours": 4,
+    "status": "unverified",
+    "note": "morningtech.xml path confirmed via published Politico feed lists, but rss.politico.com is blocked from this environment — could not confirm the feed returns content"
+  },
+  {
+    "id": "axios",
+    "name": "Axios", "full_name": "Axios — Top Stories (incl. Technology)",
+    "jurisdiction": "US", "sectors": ["PL","AI","FT"],
+    "strategy": "rss", "feed_url": "https://api.axios.com/feed/",
+    "priority": "medium", "poll_interval_hours": 2,
+    "status": "verified",
+    "note": "The dedicated 'Axios Login' tech newsletter was discontinued in 2022; this is the main Axios feed (www.axios.com/feeds/feed.rss redirects here)"
+  },
+  {
+    "id": "the-verge",
+    "name": "The Verge", "full_name": "The Verge — Technology, Policy & Culture",
+    "jurisdiction": "US", "sectors": ["PL","AI"],
+    "strategy": "rss", "feed_url": "https://www.theverge.com/rss/index.xml",
+    "priority": "medium", "poll_interval_hours": 2,
+    "status": "unverified",
+    "note": "Canonical URL confirmed via multiple published sources, but theverge.com is blocked from this environment — could not confirm the feed returns content"
+  },
+  {
+    "id": "rest-of-world",
+    "name": "Rest of World", "full_name": "Rest of World — Global Tech Journalism",
+    "jurisdiction": "GLOBAL", "sectors": ["PL","AI"],
+    "strategy": "rss", "feed_url": "https://restofworld.org/feed/latest/",
+    "priority": "medium", "poll_interval_hours": 8,
+    "status": "verified"
+  },
+  {
+    "id": "gambling-insider",
+    "name": "Gambling Insider", "full_name": "Gambling Insider — Gaming Industry News",
+    "jurisdiction": "GLOBAL", "sectors": ["GG"],
+    "strategy": "rss", "feed_url": "https://www.gamblinginsider.com/feed",
+    "priority": "high", "poll_interval_hours": 4,
+    "status": "verified"
+  },
+  {
+    "id": "igaming-business",
+    "name": "iGaming Business", "full_name": "iGaming Business (iGB)",
+    "jurisdiction": "GLOBAL", "sectors": ["GG"],
+    "strategy": "rss", "feed_url": "https://igamingbusiness.com/feed/",
+    "priority": "high", "poll_interval_hours": 4,
+    "status": "verified"
+  },
+  {
+    "id": "legal-sports-report",
+    "name": "Legal Sports Report", "full_name": "Legal Sports Report — US Betting Law & Policy",
+    "jurisdiction": "US", "sectors": ["GG"],
+    "strategy": "rss", "feed_url": "https://www.legalsportsreport.com/feed/",
+    "priority": "high", "poll_interval_hours": 4,
+    "status": "verified"
+  },
+  {
+    "id": "calvin-ayre",
+    "name": "CalvinAyre", "full_name": "CalvinAyre.com — Gambling Industry News",
+    "jurisdiction": "GLOBAL", "sectors": ["GG"],
+    "strategy": "rss", "feed_url": "https://calvinayre.com/feed/",
+    "priority": "low", "poll_interval_hours": 24,
+    "status": "unverified",
+    "note": "Feed returns valid RSS but the site is defunct — most recent item is 2021-02-24 ('Farewell sweet CalvinAyre.com'); candidate for removal"
+  },
+  {
+    "id": "mlex",
+    "name": "MLex", "full_name": "MLex — Regulatory Risk & Enforcement",
+    "jurisdiction": "GLOBAL", "sectors": ["PL","FT","CR","PV","GG"],
+    "strategy": "rss", "feed_url": null, "page_url": "https://www.mlex.com",
+    "priority": "high", "poll_interval_hours": 4,
+    "status": "unverified",
+    "note": "Subscriber-only (now part of LexisNexis/Law360); no public RSS feed found — would require authenticated access"
+  },
+  {
+    "id": "law360",
+    "name": "Law360", "full_name": "Law360 — Legal News & Analysis",
+    "jurisdiction": "US", "sectors": ["FT","CR","PL","PV","GG","AI","CY"],
+    "strategy": "rss", "feed_url": null, "page_url": "https://www.law360.com",
+    "priority": "high", "poll_interval_hours": 4,
+    "status": "unverified",
+    "note": "Law360 documents 60+ per-section RSS feeds but they are subscriber-gated; no anonymously verifiable feed URL"
+  },
+  {
+    "id": "bloomberg-law",
+    "name": "Bloomberg Law", "full_name": "Bloomberg Law — Legal & Regulatory News",
+    "jurisdiction": "US", "sectors": ["FT","CR","PL","PV","GG","AI","CY"],
+    "strategy": "rss", "feed_url": null, "page_url": "https://news.bloomberglaw.com",
+    "priority": "high", "poll_interval_hours": 4,
+    "status": "unverified",
+    "note": "No documented public RSS feed for news.bloomberglaw.com"
+  },
+  {
+    "id": "reuters-legal",
+    "name": "Reuters Legal", "full_name": "Reuters — Legal News",
+    "jurisdiction": "GLOBAL", "sectors": ["FT","CR","PL","PV","GG","AI","CY"],
+    "strategy": "rss", "feed_url": null, "page_url": "https://www.reuters.com/legal/",
+    "priority": "medium", "poll_interval_hours": 4,
+    "status": "unverified",
+    "note": "Reuters discontinued its public RSS feeds; no official Reuters Legal feed URL available"
+  }
+]

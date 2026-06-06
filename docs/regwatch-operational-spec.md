@@ -59,7 +59,7 @@
 | researcher-uk-data-protection | data-protection | UK | ICO, DSIT |
 | researcher-global-cyber | cyber | ALL | CISA, NCSC, ENISA, NIST, NSA, Five Eyes |
 | researcher-us-gambling | gambling | US | State gaming commissions, DOJ, CFTC |
-| researcher-uk-gambling | gambling | UK+IOM | UKGC, GSC |
+| researcher-uk-gambling | gambling | UK | UKGC |
 
 #### Deduper
 - **What it does:** Checks extracted facts against existing site articles to avoid duplicates

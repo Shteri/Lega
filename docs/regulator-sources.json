@@ -483,20 +483,6 @@
     "priority": "medium", "poll_interval_hours": 4
   },
   {
-    "id": "gsc",
-    "name": "GSC", "full_name": "Gambling Supervision Commission (Isle of Man)",
-    "jurisdiction": "IOM", "sectors": ["GG"],
-    "strategy": "ai-scrape", "page_url": "https://www.gov.im/categories/business-and-industries/gambling-and-e-gaming/",
-    "priority": "medium", "poll_interval_hours": 8
-  },
-  {
-    "id": "iomfsa",
-    "name": "IOMFSA", "full_name": "Isle of Man Financial Services Authority — News & Publications",
-    "jurisdiction": "IOM", "sectors": ["CR","FT"],
-    "strategy": "ai-scrape", "page_url": "https://www.iomfsa.im/news-and-publications/",
-    "priority": "medium", "poll_interval_hours": 8
-  },
-  {
     "id": "esma-qa-mica",
     "name": "ESMA", "full_name": "ESMA Q&A — MiCA (rolling update)",
     "jurisdiction": "EU", "sectors": ["CR","FT"],

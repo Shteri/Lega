@@ -1,1 +1,412 @@
-{}
+{
+  "fca-publications": {
+    "last_checked": "2026-06-06T12:57:52.402Z",
+    "seen_ids": [
+      "https://www.fca.org.uk/publications/consultation-papers/cp26-17-quarterly-consultation-paper-no-52",
+      "https://www.fca.org.uk/publications/consultation-papers/cp26-16-registration-authorised-fund-assets",
+      "https://www.fca.org.uk/publications/consultation-papers/cp26-15-reviewing-financial-promotions-rules-consumer-credit",
+      "https://www.fca.org.uk/publications/guidance-consultations/gc26-3-primary-market-bulletin-no-63",
+      "https://www.fca.org.uk/publications/consultation-papers/cp26-14-changes-information-flows-uk-equity-ipos",
+      "https://www.fca.org.uk/publications/policy-statements/ps26-8-retail-banking-business-models-data",
+      "https://www.fca.org.uk/publications/finalised-guidance/fg26-2-primary-market-bulletin-no-63",
+      "https://www.fca.org.uk/publications/policy-statements/ps26-6-senior-managers-and-certification-regime-review",
+      "https://www.fca.org.uk/publications/policy-statements/ps26-5-changes-uk-short-selling-regime",
+      "https://www.fca.org.uk/publications/policy-statements/ps26-4-financial-services-compensation-scheme-management-expenses-levy-limit-202627",
+      "https://www.fca.org.uk/publications/our-strategy-2025-2030",
+      "https://www.fca.org.uk/publications/annual-work-programme-202627",
+      "https://www.fca.org.uk/publications/annual-reports/annual-report-2024-2025",
+      "https://www.fca.org.uk/publications/consultation-papers/cp2617-quarterly-consultation-paper-no-52",
+      "https://www.fca.org.uk/publications/consultation-papers/cp2616-registration-authorised-fund-assets",
+      "https://www.fca.org.uk/publications/consultation-papers/cp2615-reviewing-financial-promotions-rules-consumer-credit",
+      "https://www.fca.org.uk/publications/guidance-consultations/gc263-primary-market-bulletin-no-63",
+      "https://www.fca.org.uk/publications/consultation-papers/cp2614-changes-information-flows-uk-equity-ipos",
+      "https://www.fca.org.uk/publications/policy-statements/ps268-retail-banking-business-models-data",
+      "https://www.fca.org.uk/publications/finalised-guidance/fg262-primary-market-bulletin-no-63",
+      "https://www.fca.org.uk/publications/policy-statements/ps266-senior-managers-and-certification-regime-review",
+      "https://www.fca.org.uk/publications/policy-statements/ps265-changes-uk-short-selling-regime",
+      "https://www.fca.org.uk/publications/policy-statements/ps264-financial-services-compensation-scheme-management-expenses-levy-limit-202627",
+      "https://www.fca.org.uk/publications/strategy-2025-2030"
+    ]
+  },
+  "cma": {
+    "last_checked": "2026-06-06T11:55:14.386Z",
+    "seen_ids": [
+      "https://www.gov.uk/cma-cases/microsofts-business-software-ecosystem",
+      "https://www.gov.uk/government/publications/mergers-orders-and-undertakings-register",
+      "https://www.gov.uk/cma-cases/getty-images-slash-shutterstock-merger-inquiry",
+      "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry",
+      "https://www.gov.uk/cma-cases/lb-group-slash-venator-uk-tio2-assets-merger-inquiry",
+      "https://www.gov.uk/cma-cases/healthcare-ireland-slash-hutchinson-homes-merger-inquiry",
+      "https://www.gov.uk/government/publications/cma-panel-member-biographies-and-disclosures-of-interest",
+      "https://www.gov.uk/cma-cases/referral-of-the-proposed-low-carbon-fuels-fund-subsidy-scheme-by-the-department-for-transport",
+      "https://www.gov.uk/government/publications/merger-assessment-guidelines",
+      "https://www.gov.uk/government/calls-for-evidence/reviewing-our-approach-to-assessing-merger-efficiencies",
+      "https://www.gov.uk/government/consultations/draft-revised-guidance-on-our-approach-to-assessing-merger-efficiencies",
+      "https://www.gov.uk/government/news/cma-secures-fairer-deal-for-publishers-and-improves-google-search-services-in-uk",
+      "https://www.gov.uk/cma-cases/googles-general-search-and-search-advertising-services",
+      "https://www.gov.uk/government/consultations/googles-general-search-services-proposed-conduct-requirements",
+      "https://www.gov.uk/government/publications/annual-report-on-concurrency-2026",
+      "https://www.gov.uk/cma-cases/vandemoortele-slash-delifrance-merger-inquiry",
+      "https://www.gov.uk/government/publications/cma-diversity-and-inclusion-strategy-annual-plan-2025-to-2026",
+      "https://www.gov.uk/government/publications/enhanced-road-fuel-monitoring-report-june-2026",
+      "https://www.gov.uk/government/news/cma-publishes-new-monitoring-update-on-road-fuel-market",
+      "https://www.gov.uk/cma-cases/referral-of-the-proposed-subsidy-to-ep-lynemouth-power-limited-by-the-department-for-energy-security-and-net-zero"
+    ]
+  },
+  "psr": {
+    "last_checked": "2026-06-06T12:58:13.551Z",
+    "seen_ids": [
+      "https://www.psr.org.uk/publications/CP26/1",
+      "https://www.psr.org.uk/publications/annual-plan-2026-27",
+      "https://www.psr.org.uk/publications/cross-border-interchange-fees-merchant-survey",
+      "https://www.psr.org.uk/publications/bank-of-ireland-uk-decision-notice",
+      "https://www.psr.org.uk/publications/CP25/3",
+      "https://www.psr.org.uk/publications/fca-psr-treasury-response",
+      "https://www.psr.org.uk/publications/cvrp-update-delivery",
+      "https://www.psr.org.uk/publications/fca-psr-government-consultation-response",
+      "https://www.psr.org.uk/publications/behavioural-economics-app-fraud",
+      "https://www.psr.org.uk/publications/"
+    ]
+  },
+  "ukgc-news": {
+    "last_checked": "2026-06-06T11:55:34.523Z",
+    "seen_ids": [
+      "https://www.gamblingcommission.gov.uk/news-action-and-statistics/news"
+    ]
+  },
+  "ukgc-enforcement": {
+    "last_checked": "2026-06-06T11:55:42.910Z",
+    "seen_ids": [
+      "https://www.gamblingcommission.gov.uk/news-action-and-statistics/action-we-take/enforcement"
+    ]
+  },
+  "dsit": {
+    "last_checked": "2026-06-06T11:55:43.951Z",
+    "seen_ids": [
+      "https://www.gov.uk/government/publications/advanced-connectivity-technologies-sector-study-2026",
+      "https://www.gov.uk/government/statistical-data-sets/cyber-essentials-management-information",
+      "https://www.gov.uk/government/statistical-data-sets/cyber-explorers-management-information",
+      "https://www.gov.uk/government/news/more-leading-researchers-brought-to-the-uk-while-horizon-europe-performance-strengthens-in-2024",
+      "https://www.gov.uk/government/publications/statistics-on-uk-participation-in-eu-framework-programmes",
+      "https://www.gov.uk/government/news/faster-support-for-children-to-get-school-ready-as-tech-sec-vows-to-better-connect-public-services",
+      "https://www.gov.uk/government/publications/growing-up-in-the-online-world-consultation-response-totals",
+      "https://www.gov.uk/government/consultations/growing-up-in-the-online-world-a-national-consultation",
+      "https://www.gov.uk/government/publications/january-2026-omr-and-premises-in-bduk-plans-england-and-wales",
+      "https://www.gov.uk/government/publications/digital-and-technologies-sector-statistics-volume-1-financial-statistics",
+      "https://www.gov.uk/government/publications/digital-and-technologies-sector-statistics-volume-1-innovation-statistics",
+      "https://www.gov.uk/government/publications/digital-and-technologies-sector-statistics-volume-1-definitions",
+      "https://www.gov.uk/government/publications/digital-and-technologies-sector-statistics-volume-1-economic-statistics",
+      "https://www.gov.uk/government/publications/ai-research-resource",
+      "https://www.gov.uk/government/publications/draft-revised-telecommunications-security-code-of-practice-2026",
+      "https://www.gov.uk/government/news/sir-ian-cheshire-confirmed-as-new-ofcom-chair",
+      "https://www.gov.uk/government/publications/parental-support-for-a-social-media-minimum-age-of-16",
+      "https://www.gov.uk/government/publications/g7-digital-and-technology-ministerial-declaration-29-may-2026",
+      "https://www.gov.uk/government/consultations/proposals-to-update-the-telecommunications-security-code-of-practice-2022",
+      "https://www.gov.uk/government/publications/online-safety-act-draft-amendments-to-the-illegal-content-codes-of-practice"
+    ]
+  },
+  "hmt": {
+    "last_checked": "2026-06-06T11:55:44.826Z",
+    "seen_ids": [
+      "https://www.gov.uk/government/publications/joint-statement-from-the-specialised-committee-on-financial-provisions-4-june-2026",
+      "https://www.gov.uk/government/publications/treasury-minutes-progress-report-june-2026",
+      "https://www.gov.uk/government/news/small-businesses-get-helping-hand-with-strengthened-debt-advice",
+      "https://www.gov.uk/government/publications/orange-book",
+      "https://www.gov.uk/government/speeches/chancellor-rachel-reeves-speech-at-the-scientific-superpower-conference",
+      "https://www.gov.uk/government/news/universal-theme-park-to-be-uks-most-popular-tourist-attraction",
+      "https://www.gov.uk/government/publications/financial-transaction-control-framework",
+      "https://www.gov.uk/government/publications/uk-official-holdings-of-international-reserves-may-2026",
+      "https://www.gov.uk/government/publications/reference-document-for-the-customs-tariff-establishment-eu-exit-regulations-2020",
+      "https://www.gov.uk/government/publications/open-book-review-of-northern-ireland-executive-budget",
+      "https://www.gov.uk/government/publications/preston-guidance-april-2026",
+      "https://www.gov.uk/government/statistics/hm-treasury-2026-covid-19-cost-tracker-update",
+      "https://www.gov.uk/government/publications/national-wealth-fund-framework-document",
+      "https://www.gov.uk/government/publications/the-national-wealth-fund-and-hm-treasury-keep-well-agreement",
+      "https://www.gov.uk/government/publications/government-major-projects-portfolio-accounting-officer-assessments-ministry-of-justice",
+      "https://www.gov.uk/government/news/millions-to-benefit-from-lower-travel-and-food-costs",
+      "https://www.gov.uk/government/news/non-executive-directors-of-the-national-wealth-fund-reappointed",
+      "https://www.gov.uk/government/publications/ofsi-general-licence-int20244761108",
+      "https://www.gov.uk/government/publications/hmt-workforce-management-information-april-2026",
+      "https://www.gov.uk/government/statistics/public-sector-finances-bulletin"
+    ]
+  },
+  "asa-rulings": {
+    "last_checked": "2026-06-06T11:55:49.694Z",
+    "seen_ids": [
+      "https://www.asa.org.uk/rulings.html"
+    ]
+  },
+  "sec-press": {
+    "last_checked": "2026-06-06T11:55:58.434Z",
+    "seen_ids": [
+      "https://www.sec.gov/news/pressreleases/2026-52",
+      "https://www.sec.gov/news/pressreleases/2026-51",
+      "https://www.sec.gov/news/pressreleases/2026-50",
+      "https://www.sec.gov/news/pressreleases/2026-49",
+      "https://www.sec.gov/news/pressreleases/2026-48",
+      "https://www.sec.gov/news/pressreleases/2026-47",
+      "https://www.sec.gov/news/pressreleases/2026-46",
+      "https://www.sec.gov/news/pressreleases/2026-45",
+      "https://www.sec.gov/news/pressreleases/2026-44",
+      "https://www.sec.gov/news/pressreleases/2026-43",
+      "https://www.sec.gov/news/pressreleases/2026-42",
+      "https://www.sec.gov/news/pressreleases/2026-41",
+      "https://www.sec.gov/news/pressreleases/2026-40",
+      "https://www.sec.gov/news/pressreleases/2026-39",
+      "https://www.sec.gov/news/pressreleases/2026-38",
+      "https://www.sec.gov/news/pressreleases/2026-37",
+      "https://www.sec.gov/news/pressreleases/2026-36",
+      "https://www.sec.gov/news/pressreleases/2026-35",
+      "https://www.sec.gov/news/pressreleases/2026-34",
+      "https://www.sec.gov/news/pressreleases/2026-33",
+      "https://www.sec.gov/news/pressreleases/2026-32",
+      "https://www.sec.gov/news/pressreleases/2026-31",
+      "https://www.sec.gov/news/pressreleases/2026-30",
+      "https://www.sec.gov/news/pressreleases/2026-29",
+      "https://www.sec.gov/news/pressreleases/2026-28"
+    ]
+  },
+  "sec-rules": {
+    "last_checked": "2026-06-06T11:56:10.787Z",
+    "seen_ids": [
+      "https://www.sec.gov/rules-regulations/rulemaking-activity"
+    ]
+  },
+  "sec-speeches": {
+    "last_checked": "2026-06-06T12:59:08.389Z",
+    "seen_ids": [
+      "https://www.sec.gov/news/speeches/harmonization-well-have-lots-talk-about",
+      "https://www.sec.gov/news/speeches/remarks-investor-advisory-committee-meeting-0",
+      "https://www.sec.gov/news/speeches/quarter-your-thoughts-remarks-meeting-sec-investor-advisory-committee",
+      "https://www.sec.gov/news/speeches/remarks-investor-advisory-committee-meeting-1",
+      "https://www.sec.gov/news/speeches/base-case-remarks-ic3-blockchain-camp",
+      "https://www.sec.gov/news/speeches/commission-statement-passing-former-general-counsel-david-becker",
+      "https://www.sec.gov/news/speeches/climate-change-statement-proposed-rescission-climate-related-disclosure-rules",
+      "https://www.sec.gov/news/speeches/statement-commissioner-mark-t-uyeda-rescission-climate-related-disclosure-rules",
+      "https://www.sec.gov/news/speeches/keynote-remarks-2026-reagan-national-economic-forum",
+      "https://www.sec.gov/news/speeches/statement-proposing-release-rescission-climate-related-disclosure-rules",
+      "https://www.sec.gov/news/speeches/privacy-and-petshops-remarks-regulatory-petshop-series-cryptographic-technologies-and",
+      "https://www.sec.gov/news/speeches/cat-hot-tin-roof",
+      "https://www.sec.gov/news/speeches/remarks-stanford-rock-center-corporate-governance",
+      "https://www.sec.gov/news/speeches/statement-novel-exchange-traded-funds-etfs",
+      "https://www.sec.gov/news/speeches/statement-proposing-registered-offering-reform-and-enhancement-emerging-growth-company",
+      "https://www.sec.gov/news/speeches/headache-medicine-statement-proposing-releases-registered-offering-reform-and-enhancement",
+      "https://www.sec.gov/news/speeches/statement-proposing-releases-enhancement-emerging-growth-company-accommodations-and",
+      "https://www.sec.gov/news/speeches/somewhere-between-cacophony-and-euphony",
+      "https://www.sec.gov/news/speeches/remarks-mfa-legal-compliance-2026-conference",
+      "https://www.sec.gov/news/speeches/remarks-conference-financial-market-regulation-0",
+      "https://www.sec.gov/news/speeches/dad-jokes-remarks-13th-annual-conference-financial-markets-regulation",
+      "https://www.sec.gov/news/speeches/remarks-special-competitive-studies-project-ai-expo",
+      "https://www.sec.gov/news/speeches/remarks-13th-annual-conference-financial-market-regulation",
+      "https://www.sec.gov/news/speeches/facilitating-access-trump-accounts",
+      "https://www.sec.gov/news/speeches/fixing-failures-communicate",
+      "https://www.sec.gov/news/speeches/remarks-investor-advisory-committee-meeting",
+      "https://www.sec.gov/news/speeches/privacy-and-petshops-remarks-regulatory-petshop-series-cryptographic-technologies-and-financial-services",
+      "https://www.sec.gov/news/speeches/statement-proposing-registered-offering-reform-and-enhancement-emerging-growth-company-accommodations",
+      "https://www.sec.gov/news/speeches/headache-medicine-statement-proposing-releases-registered-offering-reform-and-enhancement-emerging",
+      "https://www.sec.gov/news/speeches/statement-proposing-releases-enhancement-emerging-growth-company-accommodations-and-simplification",
+      "https://www.sec.gov/news/speeches/remarks-conference-financial-market-regulation"
+    ]
+  },
+  "ftc-press": {
+    "last_checked": "2026-06-06T11:56:39.614Z",
+    "seen_ids": [
+      "https://www.ftc.gov/news-events/news/press-releases"
+    ]
+  },
+  "ftc-enforcement": {
+    "last_checked": "2026-06-06T11:56:43.656Z",
+    "seen_ids": [
+      "https://www.ftc.gov/legal-library/browse/cases-proceedings/illuminate-education-inc-matter",
+      "https://www.ftc.gov/legal-library/browse/cases-proceedings/twitter-inc-corporation",
+      "https://www.ftc.gov/legal-library/browse/cases-proceedings/vance-childers-matter",
+      "https://www.ftc.gov/legal-library/browse/cases-proceedings/caremark-rx-zinc-h"
+    ]
+  },
+  "ftc-rules": {
+    "last_checked": "2026-06-06T12:59:40.220Z",
+    "seen_ids": [
+      "https://www.ftc.gov/legal-library/browse/rules/negative-option-rule",
+      "https://www.ftc.gov/legal-library/browse/rules/noncompete-rule",
+      "https://www.ftc.gov/legal-library/browse/rules/safeguards-rule",
+      "https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa",
+      "https://www.ftc.gov/legal-library/browse/rules"
+    ]
+  },
+  "cisa-news": {
+    "last_checked": "2026-06-06T12:59:44.906Z",
+    "seen_ids": [
+      "https://www.cisa.gov/news-events/news/2026/06/02/cisa-urges-stronger-security-automatic-tank-gauge-systems",
+      "https://www.cisa.gov/news-events/news/2026/05/27/preparing-world-stage",
+      "https://www.cisa.gov/news-events/news/2026/05/26/cisa-announces-revised-town-hall-schedule-engage-stakeholders-cyber-incident-reporting-critical",
+      "https://www.cisa.gov/news-events/news/2026/05/21/cisa-enhances-known-exploited-vulnerabilities-catalog-include-new-nomination-form",
+      "https://www.cisa.gov/news-events/news/2026/05/20/securing-american-experience",
+      "https://www.cisa.gov/news-events/news/2026/05/05/cisa-unveils-new-initiative-fortify-americas-critical-infrastructure",
+      "https://www.cisa.gov/news-events/news/2026/05/01/cisa-us-and-international-partners-release-guide-secure-adoption-agentic-ai",
+      "https://www.cisa.gov/news-events/news/2026/04/29/cisa-and-us-government-partners-unveil-guide-accelerate-zero-trust-adoption-operational-technology",
+      "https://www.cisa.gov/news-events/news/2026/04/23/cisa-warns-firestarter-malware-targeting-cisco-asa-including-firepower-and-secure-firewall",
+      "https://www.cisa.gov/news-events/news/2026/04/23/cisa-national-cyber-security-centre-ncsc-uk-and-global-partners-issue-advisory-chinese",
+      "https://www.cisa.gov/news-events/news"
+    ]
+  },
+  "cisa-alerts": {
+    "last_checked": "2026-06-06T11:56:59.920Z",
+    "seen_ids": [
+      "https://www.cisa.gov/news-events/cybersecurity-advisories"
+    ]
+  },
+  "fincen": {
+    "last_checked": "2026-06-06T11:57:09.702Z",
+    "seen_ids": [
+      "https://www.fincen.gov/news"
+    ]
+  },
+  "ofac": {
+    "last_checked": "2026-06-06T11:57:13.763Z",
+    "seen_ids": [
+      "https://ofac.treasury.gov/recent-actions"
+    ]
+  },
+  "cfpb": {
+    "last_checked": "2026-06-06T11:57:21.611Z",
+    "seen_ids": [
+      "https://www.consumerfinance.gov/about-us/newsroom/"
+    ]
+  },
+  "cfpb-enforcement": {
+    "last_checked": "2026-06-06T13:00:21.287Z",
+    "seen_ids": [
+      "https://www.consumerfinance.gov/enforcement/actions/synapse-financial-technologies-inc/",
+      "https://www.consumerfinance.gov/enforcement/actions/wise-us-inc/",
+      "https://www.consumerfinance.gov/enforcement/actions/equifax-inc-and-equifax-information-services-llc/",
+      "https://www.consumerfinance.gov/enforcement/actions/draper-kramer-mortgage-corporation/",
+      "https://www.consumerfinance.gov/enforcement/actions/american-honda-finance-corporation/",
+      "https://www.consumerfinance.gov/enforcement/actions/block-inc/",
+      "https://www.consumerfinance.gov/enforcement/actions/capital-one-national-association-and-capital-one-financial-corporation/",
+      "https://www.consumerfinance.gov/enforcement/actions/experian-information-solutions-inc/",
+      "https://www.consumerfinance.gov/enforcement/actions/vanderbilt-mortgage-finance-inc/",
+      "https://www.consumerfinance.gov/enforcement/actions/walmart-inc-and-branch-messenger-inc/",
+      "https://www.consumerfinance.gov/enforcement/actions/rocket-homes-real-estate-llc-dba-rocket-homes-jmg-holding-partners-llc-dba-jason-mitchell-group-45-real-estate-brokerage-affiliates-and-jason-mitchell/",
+      "https://www.consumerfinance.gov/enforcement/actions/early-warning-services-llc-bank-of-america-na-jpmorgan-chase-bank-na-wells-fargo-bank-na/",
+      "https://www.consumerfinance.gov/enforcement/actions/performant-recovery-inc/",
+      "https://www.consumerfinance.gov/enforcement/actions/comerica-bank/",
+      "https://www.consumerfinance.gov/enforcement/actions/global-tel-link-corporation-dba-viapath-technologies-telmate-llc-dba-viapath-technologies-and-touchpay-holdings-llc-dba-gtl-financial-services/",
+      "https://www.consumerfinance.gov/enforcement/actions/navy-federal-credit-union/",
+      "https://www.consumerfinance.gov/enforcement/actions/vystar-credit-union/",
+      "https://www.consumerfinance.gov/enforcement/actions/apple-inc/",
+      "https://www.consumerfinance.gov/enforcement/actions/goldman-sachs-bank-usa/",
+      "https://www.consumerfinance.gov/enforcement/actions/climb-credit-inc-climb-investco-llc-climb-gs-loan-fund-2018-1-llc-10-holdco-llc-and-10-capital-llc/",
+      "https://www.consumerfinance.gov/enforcement/actions/fairway-independent-mortgage-corporation/",
+      "https://www.consumerfinance.gov/enforcement/actions/ejudicate-inc-dba-brief/",
+      "https://www.consumerfinance.gov/enforcement/actions/reliant-holdings-inc-dba-horizon-card-services-and-robert-kane/",
+      "https://www.consumerfinance.gov/enforcement/actions/td-bank-na/",
+      "https://www.consumerfinance.gov/enforcement/actions/new-day-financial-llc/",
+      "https://www.consumerfinance.gov/enforcement/actions/"
+    ]
+  },
+  "fdic": {
+    "last_checked": "2026-06-06T11:57:42.367Z",
+    "seen_ids": [
+      "https://www.fdic.gov/news/press-releases/"
+    ]
+  },
+  "congress": {
+    "last_checked": "2026-06-06T11:58:02.532Z",
+    "seen_ids": [
+      "https://api.congress.gov/v3/bill/105/hconres/9?format=json",
+      "https://api.congress.gov/v3/bill/105/hconres/21?format=json",
+      "https://api.congress.gov/v3/bill/105/hconres/87?format=json",
+      "https://api.congress.gov/v3/bill/105/hconres/136?format=json",
+      "https://api.congress.gov/v3/bill/105/hconres/138?format=json",
+      "https://api.congress.gov/v3/bill/105/hconres/167?format=json",
+      "https://api.congress.gov/v3/bill/105/hconres/169?format=json",
+      "https://api.congress.gov/v3/bill/105/hconres/194?format=json",
+      "https://api.congress.gov/v3/bill/105/hres/3?format=json",
+      "https://api.congress.gov/v3/bill/105/hres/4?format=json",
+      "https://api.congress.gov/v3/bill/105/hres/2?format=json",
+      "https://api.congress.gov/v3/bill/105/hres/9?format=json",
+      "https://api.congress.gov/v3/bill/105/hres/10?format=json",
+      "https://api.congress.gov/v3/bill/105/hres/11?format=json",
+      "https://api.congress.gov/v3/bill/105/hres/25?format=json",
+      "https://api.congress.gov/v3/bill/105/hres/33?format=json",
+      "https://api.congress.gov/v3/bill/105/hres/35?format=json",
+      "https://api.congress.gov/v3/bill/105/hres/42?format=json",
+      "https://api.congress.gov/v3/bill/105/hres/52?format=json",
+      "https://api.congress.gov/v3/bill/105/hres/82?format=json"
+    ]
+  },
+  "nist": {
+    "last_checked": "2026-06-06T11:58:06.302Z",
+    "seen_ids": [
+      "https://www.nist.gov/news-events/news"
+    ]
+  },
+  "ec-fisma": {
+    "last_checked": "2026-06-06T11:58:10.154Z",
+    "seen_ids": [
+      "https://finance.ec.europa.eu/news_en"
+    ]
+  },
+  "ec-connect": {
+    "last_checked": "2026-06-06T11:58:15.205Z",
+    "seen_ids": [
+      "https://digital-strategy.ec.europa.eu/en/news"
+    ]
+  },
+  "ec-comp": {
+    "last_checked": "2026-06-06T11:58:23.088Z",
+    "seen_ids": [
+      "https://ec.europa.eu/competition-policy/news_en"
+    ]
+  },
+  "esma-news": {
+    "last_checked": "2026-06-06T11:58:30.156Z",
+    "seen_ids": [
+      "https://www.esma.europa.eu/press-news/esma-news"
+    ]
+  },
+  "edpb-news": {
+    "last_checked": "2026-06-06T11:58:38.723Z",
+    "seen_ids": [
+      "https://www.edpb.europa.eu/news/news_en"
+    ]
+  },
+  "edpb-documents": {
+    "last_checked": "2026-06-06T11:58:44.799Z",
+    "seen_ids": [
+      "https://www.edpb.europa.eu/our-work-tools/our-documents_en"
+    ]
+  },
+  "enisa": {
+    "last_checked": "2026-06-06T11:58:50.002Z",
+    "seen_ids": [
+      "https://www.enisa.europa.eu/news"
+    ]
+  },
+  "cnil-news": {
+    "last_checked": "2026-06-06T13:02:27.779Z",
+    "seen_ids": [
+      "https://www.cnil.fr/en/news/privacy-research-day-join-us-day-dedicated-research-privacy-and-personal-data-protection",
+      "https://www.cnil.fr/en/news/health-data-fine-5-million-euros-against-iqvia",
+      "https://www.cnil.fr/en/news/generative-ai-and-privacy-pipc-and-cnil-jointly-produced-poster-raise-awareness-among-ai-users",
+      "https://www.cnil.fr/en/news/confidentiality-digital-euro-where-are-we",
+      "https://www.cnil.fr/en/news/annual-report-cnils-achievements-and-key-actions-2025",
+      "https://www.cnil.fr/en/news/g7-2026-cnil-hosts-data-protection-and-privacy-authorities-roundtable-paris",
+      "https://www.cnil.fr/en/news/generative-ai-and-privacy-pipc-and-cnil-jointly-produced-poster-raise-awareness-among-ai-users-about"
+    ]
+  },
+  "esma-qa-mifid": {
+    "last_checked": "2026-06-06T11:59:11.102Z",
+    "seen_ids": [
+      "https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mifid-ii"
+    ],
+    "doc_hash": "8f720d47e7fff34221ea3dd8d213dfbf"
+  },
+  "eba-qa": {
+    "last_checked": "2026-06-06T11:59:12.548Z",
+    "seen_ids": [
+      "https://www.eba.europa.eu/single-rule-book-qa"
+    ],
+    "doc_hash": "7871925c980c38e42cd66d6a9ad6e887"
+  }
+}

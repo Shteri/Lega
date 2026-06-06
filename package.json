@@ -8,7 +8,10 @@
     "dev": "npx @11ty/eleventy --serve --watch",
     "clean": "rm -rf _site",
     "research": "node workers/run-research.mjs",
-    "wire": "node workers/run-wire.mjs"
+    "content": "node workers/run-content.mjs",
+    "wire": "node workers/run-wire.mjs",
+    "technology": "node workers/run-technology.mjs",
+    "deploy": "node workers/run-deploy.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",

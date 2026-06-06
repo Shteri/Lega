@@ -53,7 +53,7 @@ CONTENT TYPES (pick the single best fit):
 - ALRT  = Alert or advisory (cybersecurity alert, investor warning, consumer warning)
 - HRNG  = Hearing or parliamentary output (testimony, committee report, parliamentary question)
 
-JURISDICTIONS: EU, US, UK, IOM, US-STATE, GLOBAL
+JURISDICTIONS: EU, US, UK, US-STATE, GLOBAL
 
 DEPTH DECISION (critical):
 - full-article: Major enforcement action (fine >£100k or significant precedent), new law enacted or major rulemaking finalized, landmark guidance that changes industry practice, major market study or thematic review, parliamentary output that materially advances a tracked bill
